@@ -1,0 +1,339 @@
+##############################################################################################################
+2022-03-03 10:00:33
+    제우스... 8.5 가장최신 미들웨어.. 
+    이주상기술 팀장.. 김경찬 매니저
+
+    설희수 상무 / 안성만 실장
+
+    1. 제우스 vm 에 설치.. ( 김경찬 매니저)
+    2. server.xml 확인
+    3. web.xml 확인
+        context path 설정
+    4. 3dspace.war 를 JEUS 에 deploy
+
+
+
+ Request for VMWare license
+ LP5-HJN15-KOR
+
+ I recently proceeded with the notebook format.
+ I need to set-up a VMWare on my laptop to perform within a client security network. (KyoungdongNavien PoC)
+
+ The link below is the request attached to the approval mail of the VMWare license request team leader.
+ https://peoplesupport.dsone.3ds.com/3dx/rdt/Ap2L2_dRG_dafNHP2aMh23MuBvm
+
+ 2022-03-03 12:40:14 식사 - 마오..
+   
+
+##############################################################################################################
+2022-03-02 09:53:58
+    .env 에서 노트북으로 라이선스서버 돌리기 
+
+    1. 티맥스 소프트와 JEUS 
+        1) 3/2(수) 까지 플랫폼 설치된  VM 마련 -  btcc09
+            2022-03-02 14:44:09   일단 화면 확인 완료
+
+        2) btcc09 서버에 기본 PCS 및 일부 ENOVIA 앱, Catia 연결 테스트 할 수 있는 라이선스 서버 설치 후 네트워크 끄고 테스트
+        3) 3/3(목) 부터 TMAX 미들웨어 기술 담당자 연결 가능   
+
+
+    2. Expense
+        2022-03-02 19:33:58 완료
+
+##############################################################################################################
+2022-02-25 10:35:59
+    FD01 docker 설치 하였으나 index crontab 이 정상작동하지 않음 
+    
+    */1 * * * * /root/r2022x-docker/platform/run-indexing.sh > /dev/null 2>&1
+    #0 * * * * /root/r2022x-docker/platform/run-3dindexing.sh > /dev/null 2>&1    
+
+    VMWare license 요청 
+
+ 2022-02-25 13:03:28
+    티맥스 소프트와 협의    
+
+    2022-02-25 13:59:48 시작
+
+    미들웨어 제우스..
+    DB   티베로
+
+    아키텍쳐와 플랫폼 간단 소개
+
+    기본기능 검증 -- Catia 와 연계 
+
+    Q&A 
+      이주상-- 기술지원팀장 
+      TOMEE 대신 제우스 사용하게 된다면 war 파일을 deployee 할 수 있는가? 
+       
+      플랫폼에 타미들웨어 사용된적이 있는가? 
+        15x 이전에는  기존에 웹스피어, 웹로직.. 국내 고객사 - 다수 존재함 -- 이후 부터 현재까지는 없음
+
+      DB 는 연계 힘들것 같음 플랫폼 설치시 oracle / SQL 두가지 type 만 제공함 나머지 내용이 캡슐레이션 되어 있음
+
+      war 만 제공을 하면 제우스에 deploy 될 수 있는가? (ex : 3dspace.war ) 제우스 8.5
+
+      OpenJDK 11 이 맞는가? -- 맞음
+
+      장비에 설치 -- 
+
+        제우스 8.5 로 일차적으로 차주 부터 진행..  -- 일정은 3/3(목) 이후로 회신 예정
+        설희수 상무님 최초 방문... 
+
+    Next
+        1. 3/2(수) 까지 플랫폼 설치된  VM 마련 -  btcc09
+        2. btcc09 서버에 기본 PCS 및 일부 ENOVIA 앱, Catia 연결 테스트 할 수 있는 라이선스 서버 설치 후 네트워크 끄고 테스트
+        3. 3/3(목) 부터 TMAX 미들웨어 기술 담당자 연결 가능
+
+  2022-02-25 15:53:33
+
+    라이선스 요청 
+    LKO1894919     
+
+    LKO1986066  - 2022  LP5-HJN15-KOR Governance/Lifecycle 21, Design/Engineering, Open CATIA V5 tot 37   NGU-4290186A64DAC219
+
+     PDM 이 빠졌음
+
+##############################################################################################################
+2022-02-24 10:23:17
+
+    FD01 정리 및 기능 확인 
+
+    문기영 팀장님에게 Docker 보내기 2022-02-24 13:46:42 SSD 전달
+
+    2022-02-24 15:27:03
+     양한원, 김정호대표님 exaled 관련 논의 ASSY 를 형상검색할 수 있는가? 거의 불가능 -- 이유는 모든 ASSY 의 형태별로 indexing 시키는건 불가능하기때문
+
+     문팀장님 - DB, WAS 변경은 본사에서 certi 해주지 않을 것이다. 
+
+
+##############################################################################################################
+2022-02-23 10:55:20
+
+마운트 확인 
+
+/usr/bin/vmhgfs-fuse -o nonempty /mnt/hgfs/
+/usr/bin/vmhgfs-fuse -o auto_unmount /mnt/hgfs/
+
+/usr/bin/vmhgfs-fuse -h
+
+/usr/bin/vmhgfs-fuse .host:/ /mnt/hgfs/ -o nonempty -o subtype=vmhgfs-fuse,allow_other
+
+
+다시 확인해 보니 됨 
+
+
+R2022x FD01
+
+1. Plainning
+    Sustainable Strategy
+    Portfolio
+    Program & Project Performance & Execution
+2. Virtual Product Development
+    Multidiscipline Configured Product Development
+3. Value Network
+    Value Network Development
+    Sourcing & Standardization
+4. Customer Experience
+    Asset Experience
+5. Collaboration & Intelligence
+    Social Collaboration & Structured Collaboration
+    3D for All
+    Collaborative Content
+    Information Intelligence from All
+
+
+RSK - Risk Manager 
+PTN-OC - Supplier Network Manager
+
+
+2022-02-23 16:23:34 명신 
+3DEXPERIENCE Platform 각 Service 별 Session Timeout 설정
+https://dsext001-eu1-215dsi0708-3dswym.3dexperience.3ds.com/#community:I8SnFFpUS9aXjKLDf5EQbg/wiki:qzPp4dCZTZmhsOu27siNRg
+
+SessionTimeoutCookieFilter in 3DSpace web.xml Web Applictaion configuration.
+
+
+QA00000049050
+
+https://kb.dsxclient.3ds.com/mashup-ui/page/resultqai?from=searchi%3fq%3dQA00000049050&id=QA00000049050e&q=QA00000049050
+
+##############################################################################################################
+2022-02-22 13:44:04
+    
+
+    티맥스 제우스 WAS 통한 플랫폼 동작확인 방법
+
+    DB? 
+
+    설치 매뉴얼중 - ssl 셋팅 
+
+
+Docker VM 에서 mount 안됨
+
+mount -t fuse.vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other
+
+
+        
+
+##############################################################################################################
+2022-02-18 09:50:57
+    문기영 팀장님에게 Docker 보내기
+    Docker 켜보기 -- 동작 잘 안됨.....]
+        
+
+
+##############################################################################################################
+2022-02-17 09:27:28
+    경동나비엔 RFP  검토
+    
+    차주월요일 RFP 발송예정
+
+    1. 신현경상무 의견 - 현재 작성된 RFP가 본인이 보시기에 너무 상세 Level이거나, 너무 일반적인 내용이라 굳이 필요없는 요건이거나, 그 외 빠진 부분도 있을 것 같아서 다쏘시스템이 검토
+       다쏘시스템만의 Spec을 넣지는 말아달라는 요청
+    2. 이유담수석 의견 - 너무 상세하거나, 과도한 부분, PLM 업계에서 사용하지 않는 용어
+
+    목적별BOM 사용여부?    MBOM 연계 부분?  -- 한쪽으로 치우치치 않는 한도... 아직 정하지 못했음... ㅣ
+
+     01. 기본 요구사항
+     02. 제품/부품/사양 -- 기준정보, 표준품/공용품?
+     03. 설계 데이터 - CAD, BOM, Documents
+     04. 설계 변경 - 변경관리
+     05. 프로젝트 - PMS, TRM,PRM, 요구사항관리
+    
+     06. Workflow 관리 - 변경관리
+     07. 서비스 및 단종관리 
+     08. 보안 및 권한 관리
+     09. 전장 데이터 관리 (ECAD) -HDM 시스템대체
+     10. 이슈 관리
+     11. 시스템 엔지니어링
+     12. 소프트웨어 데이터 관리 (ALM)
+     13. 원가정보 관리
+     14. 기타 (Migration)
+
+
+     38p 투입 인력의 상세 인적까지 결정하기 어려움 
+선정 후 수행 계획서에서 다루어야 할 내용임 
+
+
+
+12p CREO CAD Batch Import 지원 x
+
+16p BOM Import/Export 기능 
+19p 제품 및 부품 변경 대상 자재별 효력 시작일(적용 일자)관리 방안 적용 및 알림 제공 
+     V6 Configuration 설정이 되어 있는 상태에서만 가능
+17p   BOM 정보를 기반으로 한 Design-FMEA 구성 및 관리 지원 
+     RFLP 구성이 완료 되어 있어야 가능
+17p  최종 양산 릴리즈 버전
+        지멘스 대비 우리의 독소조항 
+
+
+     
+
+##############################################################################################################
+2022-02-15 09:27:28
+    
+    두산 로보틱스 ENOVIA 솔루션 소개
+    13:30~16:00 
+
+
+
+##############################################################################################################
+2022-02-10 11:00:00
+ 
+ 두산 로보틱스 
+    
+    로보틱스 End to End 동영사 내용
+        Product Definition & Development
+            Collaborative Portfolio Definition
+                Sywm 에서 아이디어 
+                포트폴리오 확인
+                프로젝트를 생성
+            Requirement Engineering & Traceablility
+                TRY 
+            MultiCAD Design & Validation
+        
+        Sales & Marketing
+            3DExicit 르
+
+        Manufacturing
+
+
+기본 Agenda
+    01. 플랫폼기본
+
+    02. 제품(모델) 사양관리
+
+    03. BOM 관리 (부품, 도면)
+
+    04. 설계 변경 관리
+
+    05. 기준정보 관리 (표준품, 공용품)
+
+
+
+모델관리
+사양관리
+부품관리
+BOM관리
+설계변경관리
+도면관리
+문서관리
+표준품/공용품관리
+SW관리
+권한관리 등 추천 기능 포함 가능
+
+
+
+##############################################################################################################
+2022-02-09 09:33:43
+ 인스톨 교육 - 이찬영
+ 
+2022x Training Docker  VM 으로 진행되고
+ 
+ 일본클라우드 아이아스 신청해서 docker 사용중임 - -속도 빠름
+ 
+ Remote - WSL 를 툴로 사용가능 
+ 
+ root 로 진행 
+ 
+ .net core  와 vs code 는 설치 (실행 code / )
+   root > .bashrc 수정 # VSCode
+alias code='/usr/bin/code --user-data-dir=/root/.vscode-data --no-sandbox'
+ 
+ readme.md  -- previw 로 보면 링크 됨
+ 
+ 도커 허브 https://hub.docker.com/  가입?
+ 
+ 
+ 마운트 확인
+ cd /mnt/hgfs
+
+
+##############################################################################################################
+2022-02-08 09:33:43
+
+git clone https://github.com/rainsongcom/r2022x-apache24.git C:/Apache24
+
+
+##############################################################################################################
+2022-02-07 13:02:04
+
+ IC Tech Kickoff
+	
+	
+##############################################################################################################
+2022-02-03 10:47:47
+	
+installation 
+	- 
+Visualize Product Configuration in 3D
+Project Association to Model Version
+Model Version Compare
+Manufacturing Plans definition in Model Version
+
+Rolling Project Start Date
+Maintain Source Task Date for copy Schedule
+Set a Program as Context in Risk Mgmt
+
+view-source:https://v6demo233rap.extranet.3ds.com/3DSpace/common/emxIndentedTable.jsp?sortColumnName=Modified&showPageHeader=true&HelpMarker=emxhelpnewhomepage&program=emxDashboardDocuments%3AgetDocuments&portalMode=true&subHeader=emxFramework.String.LatestModifiedDocuments&mode=Changed&toolbar=APPHomePageDocumentsToolbar&sortDirection=decending&freezePane=Name%2CRouteStatus%2CTitle%2CActions%2CNewWindow&selection=multiple&portalCmdName=APPDashboardUserChangedDocs&jsTreeID=null&header=emxFramework.String.MyRecentDocuments&suiteKey=Framework&clearLimitNotice=true&portal=AEFPowerView&editLink=false&table=APPDashboardUserDocuments
+
