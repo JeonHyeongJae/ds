@@ -1,0 +1,254 @@
+
+##############################################################################################################
+2022-03-14 15:01:06
+    DHI_설계PLM 제안서_v1.2_Kor_Final.pptx
+        7page
+        
+
+
+##############################################################################################################
+2022-03-11 09:58:04
+
+Practice ENOVIA Variant Management:
+    Define Product Line
+    Define Product Portfolio & Target Release
+        Define Project Phases and Milestones
+        Define Product Portfolio
+    Define Requirements
+        for Target Markets or Program Goals
+    Define Variant Dictionary(Features & Options)
+        About Variants and Options
+        Assigning Features to Product Line
+        Logical Features
+    Define Marketing Rules 
+    Define Produt Configurations
+
+
+경동나비엔 제안.. 
+    1. 요청 내용
+
+(1) 경동나비엔 RFP 초안 협의: 2/22 고객 미팅 지원 요청
+
+(2) 제안 작업 지원 요청
+
+  A) 고객 일정: W9 RFP 배포 예정. 제안 기간 3주 예상
+  B) 제안 협력사: 오상자이엘
+
+  - ENOVIA : Engineer 김현국차장, 제안서 작성 지원 장성주이사
+  - CATIA : Engineer 박찬성과장
+  - CAE : 제안서 작성 지원 조국래이사
+  - DELMIA : M-BOM 제안서 작성 지원 조정호이사
+
+(3) CREO Integration Demo 설명: 
+
+  A) 연구소 요청으로 CREO Integration에 대한 Demo 설명 필요. 일정 TBD
+
+2. ISE & IPE / INITIATIVE
+    : connect your design environment for experience innovation
+
+3. 수행 일자 (From ~ To)
+    : 4/8 상기 진행 일정에 따라 수행
+
+4. 고객 현황
+    : Simens와 Bidding 하고 있으며, 3월 말~4월 초 프로젝트 시작을 목표로 하고 있음. BOM 컨설팅을 통해 향후 BOM 체계를 수립 후 Implementation을 진행 계획.
+
+6. 예상 REVENUE    : 300K DS PLC
+7. MCE ID : F38V-MKVSFS
+
+
+
+##############################################################################################################
+2022-03-10 08:41:48
+    1. 파트너 서티
+        Park Ji Hun (C00005901435) 박지헌
+        KANG Joo Young (JCM10) 강주영    -- ENOVIA Program & Project Management - DEMONSTRATE  런치 되지 않음
+            확인 받아 성장 런치 됨 
+        JANG Hyun Jin (JCM06) 장현진
+
+        Lee Seulbi (C00010361690) 이설비
+
+    2. Certi 
+        ENOVIA Virtual Product Development 
+
+
+        Solution Architecture Methodology
+        ENOVIA Program & Project Management
+        ENOVIA Configured Product Development - DEMONSTRATE
+        VALUE ENGAGEMENT Fundamentals
+
+##############################################################################################################
+2022-03-08 10:07:26
+    1. 티맥스 3/7 업무내역 받아서 올림
+        업무에 도움이 될만한 레지스트리 값 위치 공유 
+
+    2. 파트너 Cetification 감독관 지원
+        구승회 대표님 - 2022-03-08 11:02:38
+
+        3/10(목) 출근 8시 30분까지 ... 
+
+        2022-03-08 13:06:16 점심 식사 
+    
+        CSRF(Cross Stie Request Forgery) : 사이트간 요청 위조
+            웹 애플리케이션 취약점 중 하나로 사용자가 자신의 의지와 무관하게 공격자가 의도한 행동을 하여 특정 웹페이지를 보안에 취약하게 한다거나 수정, 삭제 등의 작업을 하게 만드는 공격방법을 의미한다
+        XSRF/CSRF(교차 사이트 요청 위조) 
+    
+    3. 
+
+
+##############################################################################################################
+2022-03-07 09:47:14
+    해야할 것
+        티맥스 문의 올때 지원 어디까지 진행되었는지 체크
+        My Compass 준비
+            Univesity -- ENOVIA Virtual Product Development 
+                PAM (Potential Addressable Markets) - 시장 잠재력
+                Landscape
+                product development landscape 제품개발환경
+                    001. Single Source of Truth
+                    002. Effective Collaboration
+                    003. Integrating Core Business systems
+                    004. Digital Twin
+                    005. Driving Operation Across the Entire lifecycle 
+                User
+                    Product Architects
+                    Configuration Engineers
+                    Product Engineers
+                    Mechanical Engineers
+                    Electrical Engineers
+                    Component Engineers
+                    Software Engineers
+                    Vlaidation Engineers
+                    Product Release Engineers
+                Value 
+
+        파트너 Certi 지원
+            2022-03-08(화) 사전 ZOOM 미팅 
+            2022-03-10(목) full day support 
+
+    해보고 싶은것 
+        What's New 정리 
+        V5 설치 연동
+        FD01 에 xsf 설치
+        vscode 에서 REST API 호출하여 플랫폼 컨트롤  - <My3DPassport>/api/private/user/v2/get
+            1. 로그인위한 lt (Login Ticket 받아냄)
+                https://3dpassport.r2022x.rs.com/3dpassport/login?action=get_auth_params
+                {
+                    "response": "login",
+                    "lt": "LT-4-RYdW0Put7AqefdEbfCCG1rVfBd6vLj"
+                }
+
+            2. user01 로그인 (lt 사용하여 아이디 패스워드로 로그인 )
+                POST https://3dpassport.r2022x.rs.com/3dpassport/login?lt=LT-16-xC50FLyX7lSZQ5o6t1mmNRYZ7FsqBr&username=user01&password=Qwer1234 HTTP/1.1
+                Content-type: application/x-www-form-urlencoded;charset=UTF8
+
+            3. user01 사용자의 문서중 ENOVIA 포함된 문서명찾기
+                GET https://3dspace.r2022x.rs.com/3dspace/resources/v1/modeler/documents/search?searchStr=ENOVIA  HTTP/1.1
+
+        파이선 좀더 테스트  for문.. -- REST API
+
+    경동나비엔 RFP 나옴 - 2022-03-07 10:14:09  
+
+
+    Reqtify 라이선스 신청
+    NGU-4290186A64DAC219
+
+    2022-03-07 13:49:53 팀미팅
+
+
+    
+
+##############################################################################################################
+2022-03-04 10:25:17
+
+    티맥스 김경찬매니저와 원격연결확인
+        anySupport , RSupport 안됨 -- 내부네트워크에서 차단함
+        구글원격데스트탑으로 원격 지원 연결 제공 됨 11:20
+
+        3DSpace 만은 올라갔음... 테스트 확인가능할까?  2022-03-04 14:19:14 
+
+        여러 테스트를 해보고 있는데, 3DSpace는 어제 연구소에 문의 했던 사항을 답변 받고 진행이 되야할 것 같습니다
+        dashboard 나 passport 도 테스트를 해볼 예정
+
+        2022-03-04 17:47:17 테스트 종료
+
+
+    명신 session time 이슈 종료
+        2022-03-04 11:42:52
+
+       
+    해보고 싶은것 
+        What's New 정리 
+        V5 설치 연동
+        phyton vscode 에 연계 간단한 프로그램..  OK
+        FD01 에 xsf 설치
+        vscode 에서 REST API 호출하여 플랫폼 컨트롤  - <My3DPassport>/api/private/user/v2/get
+
+
+    해야할 것
+        티맥스 문의 올때 지원 어디까지 진행되었는지 체크
+        My Compass 준비
+
+    2022-03-04 16:21:40 한휘철대표님
+     문서를 공유해도 Noti 가지 않음
+
+    3DEXPERIENCE Platform - An Infrastructure Deep Dive
+    WN_R2022x_Infra_Archi_Install_Admin_Internal_20220215.pdf   확인
+        EMBEDDED JDK & TOMEE+ 테스트나 데모용으로만 설치 
+        3DEXPERIENCE LAUNCHER CERTIFICAT 최신으로 유지  -  version 21.33.5000
+        기본 3DSpace Index max 는 10만건임 이를 조정하기 위해 config.xml 값 조정하면됨 즉시적용되며 재인덱싱 필요없음
+
+
+##############################################################################################################
+2022-03-03 10:00:33
+    제우스... 8.5 가장최신 미들웨어.. 
+    이주상기술 팀장.. 김경찬 매니저
+
+    설희수 상무 / 안성만 실장
+
+    1. 제우스 vm 에 설치.. ( 김경찬 매니저)
+    2. server.xml 확인
+    3. web.xml 확인
+        context path 설정
+    4. 3dspace.war 를 JEUS 에 deploy 
+        ejb-agent 관련에서 deploy 가 정상진행안됨.. 계속 확인중 
+        버전문제일 가능성은 매우 낮음
+
+    TOMEE+ 버전확인요청 
+        C:\R2022x\3DSpace\win_b64\code\tomee\logs\catalina.2022-02-07.log  에서 첫로그
+            Server version name:   Apache Tomcat (TomEE)/9.0.39 (8.0.5)
+
+       deploy 하다가 원인모르게 fail 처리됨 -- 해당문제를 티맥스본사에 엔지니어에게 확인요청 하였음 
+
+    이주상 기술팀장님. 제우스 3dpace 올리는 것으로 시작 DB Connection 진행하지 못하고 일단 다른 모듈부터 올리는 부분 진행중입
+
+
+
+
+ Request for VMWare license
+ LP5-HJN15-KOR
+
+ I recently proceeded with the notebook format.
+ I need to set-up a VMWare on my laptop to perform within a client security network. (KyoungdongNavien PoC)
+
+ The link below is the request attached to the approval mail of the VMWare license request team leader.
+ https://peoplesupport.dsone.3ds.com/3dx/rdt/Ap2L2_dRG_dafNHP2aMh23MuBvm
+
+ 2022-03-03 12:40:14 식사 - 마오..
+   
+2022-03-03 15:40:33 팀장님 승인 받아 VMWare 라이선스 People Support 에 요청 완료
+
+
+##############################################################################################################
+2022-03-02 09:53:58
+    .env 에서 노트북으로 라이선스서버 돌리기 
+
+    1. 티맥스 소프트와 JEUS 
+        1) 3/2(수) 까지 플랫폼 설치된  VM 마련 -  btcc09
+            2022-03-02 14:44:09   일단 화면 확인 완료
+
+        2) btcc09 서버에 기본 PCS 및 일부 ENOVIA 앱, Catia 연결 테스트 할 수 있는 라이선스 서버 설치 후 네트워크 끄고 테스트
+        3) 3/3(목) 부터 TMAX 미들웨어 기술 담당자 연결 가능   
+
+
+    2. Expense
+        2022-03-02 19:33:58 완료
