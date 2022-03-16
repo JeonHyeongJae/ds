@@ -1,6 +1,11 @@
 # 최초 가져오기
 git clone http://github.com/jeonhyeongjae/ds.git c:\tmp\2022
 
+# 변경사항 commit 
+git commit -m 'message'
+# [Staging Area]에 올림과 동시에 커밋(= git add .+ git commit -m "커밋메세지")
+git commit -am 'git 커맨드 추가'
+
 # 서버로 보내기
 git push http://github.com/jeonhyeongjae/ds.git
 
