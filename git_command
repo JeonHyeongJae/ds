@@ -1,0 +1,8 @@
+# 최초 가져오기
+git clone http://github.com/jeonhyeongjae/ds.git c:\tmp\2022
+
+# 서버로 보내기
+git push http://github.com/jeonhyeongjae/ds.git
+
+# 서버에서 가져오기
+git pull http://github.com/jeonhyeongjae/ds.git
