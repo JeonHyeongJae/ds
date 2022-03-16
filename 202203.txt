@@ -1,5 +1,49 @@
 
 ##############################################################################################################
+2022-03-16 11:19:14
+
+    티맥스 3/15까지의 작업 ICB Task 에 산출물로 올림
+
+    
+
+##############################################################################################################
+2022-03-15 08:04:21
+
+    코로나 확진 
+    팀내에 메일 발송
+
+    자이엘 / 김현국 차장에게 아래와 같은 VM 설명
+    허나 windows server 대응 요청
+
+    티맥스 문의 김경찬매니저 
+        플랫폼 각 서비스에서 ssl 을 사용하는가? 
+            - 각 서비스에 JRE 각각 설치되고 그 하위에 ssl 설치됨 
+
+        root  / qwer1234!@
+
+        터미널에서 
+        code ./r2022x-docker/
+        실행
+
+        README.md 보고 실행방법 확인
+
+        설치 이후에는 전체 docker compose 서비스(httpd, oracle, platform)를 일괄로 시작/종료 할 수 있다.
+
+        서비스 시작
+        전체 docker compose 서비스를 시작한다.
+        3DEXPERIENCE Platform 서비스 시작(2번째 라인)은 Oracle 데이터베이스가 시작되는데 좀 시간이 필요하므로 조금 기다린 후에 시작한다.
+
+        # docker-compose start
+        # docker-compose exec platform /usr/DassaultSystemes/scripts/docker_startall.sh
+
+        서비스 종료
+        3DEXPERIENCE Platform 서비스를 종료한 후 docker compose 서비스를 종료한다.
+
+        # docker-compose exec platform /usr/DassaultSystemes/scripts/stopall.sh
+        # docker-compose stop
+
+
+##############################################################################################################
 2022-03-14 15:01:06
     1. 경동나비엔 제안   
         - 부평역 1번출구 앞 오상자이엘 건물 3층 프로젝트룸
@@ -14,6 +58,8 @@
 
     DHI_설계PLM 제안서_v1.2_Kor_Final.pptx
         7page
+
+    코로나 오미크론 위험 병원검사 - 음성
         
 
 
