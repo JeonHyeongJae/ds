@@ -4,5 +4,8 @@ git clone http://github.com/jeonhyeongjae/ds.git c:\tmp\2022
 # 서버로 보내기
 git push http://github.com/jeonhyeongjae/ds.git
 
+# -u 옵션으로 한번 보내면 git push 만 으로 보내는 주소 설정됨
+git push -u http://github.com/jeonhyeongjae/ds.git
+
 # 서버에서 가져오기
 git pull http://github.com/jeonhyeongjae/ds.git
