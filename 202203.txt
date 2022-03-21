@@ -1,5 +1,81 @@
 
 ##############################################################################################################
+2022-03-21 09:21:33
+    1. 티맥스 3DSpace 호출 시 403에러 상세 재문의 메일 답변
+
+JEUS에서 https://3dspace.r2022x.rs.com/3dspace/?ticket=ST-15-NJzoTXHyFqNQcesSeoot-cas 호출 시 403 Fobidden error 가 발생하는 것을 확인하고 있는데,
+어느 부분에서 에러가 발생하는지 디버깅이 잘 되지 않아 로그 레벨을 Debug로 변경하여 톰캣 환경과 동작 차이를 확인 하고자 합니다.
+
+현재 3Dspace AP에 logback과 log4j 가 보이는데, 
+ 
+./classes/resources/monitoring/log4net.config
+./classes/log4j.properties
+./lib/log4j-over-slf4j.jar
+./lib/log4j.jar
+./lib/log4j-1.2.16.jar
+./classes/logback.xml
+./classes/logback.cv.xml
+./classes/resources/RDFModificationsCommons/logback.xml
+./classes/resources/monitoring/logbackMA.xml
+./classes/resources/monitoring/logback.xml
+./classes/MyApps_logback_included.xml
+./resources/RDFModificationsCommons/logback.xml
+./lib/logback-core.jar
+./lib/logback-classic.jar
+
+1.	이 두가지 모두 사용하는 것인지?
+2.	해당 현상(403 Fobidden error)을 확인하기 위해 어느 설정 파일의 로그 레벨을 변경 해야하는지?
+
+저희도 해당 3DSpace log 가 실제 어느 소스를 통해서 동작하는지 정확히 알지는 못하구요 
+
+다만 ticket 을 받아온것으로 봐서는 
+3DPassport 에서 정상 로그인 절차를 거친것 같은데요  
+그래도 정상적으로 Passport 를 통해서 받아온것인지 확인해 주시면 좋을듯 싶습니다. 
+로그인 테스트 아이디 ( admin_platform / Qwe1234 ) 
+  https://3dpassport.r2022x.rs.com/3dpassport   
+  가 정상적으로 호출되는지 확인해 주시기 바랍니다.
+
+이후에 
+https://3dspace.r2022x.rs.com/3dspace
+호출시에 
+
+Reverse proxy 를 통해 Apache 에서 ( Apache 서버도 변경을 하시는 건가요? )
+<VirtualHost *:443>
+  	    ServerName 3dspace.${PLATFORM_BASE_DOMAIN}
+	
+	    ErrorLog    logs/3dspace_error.log
+	    TransferLog logs/3dspace_access.log
+	    LogLevel warn
+	
+	    SSLEngine on
+	    SSLProxyEngine on
+	
+	    SSLCertificateFile      conf/ssl/star.${PLATFORM_BASE_DOMAIN}.crt
+	    SSLCertificateKeyFile   conf/ssl/star.${PLATFORM_BASE_DOMAIN}.key
+	
+	    Include C:\DassaultSystemes\R2022x\3DSpace\win_b64\templates\3DSpace_httpd_fragment.conf
+	</VirtualHost>
+
+해당 설정을 통해서 권한 인증을 하게 될텐데 이 부분이 정상동작하는지도 확인을 해야 할것 같습니다. 
+
+감사합니다.
+
+    2022-03-21 11:45:17
+
+    2022-03-21 13:50:20 
+    팀미팅
+        My Compass 
+
+    2022-03-21 16:33:09 
+    경동나비엔 ZOOM 미팅
+
+    2022-03-21 20:06:42 계속 DSLS 신청
+    NBE-426C1405DB0992E8  --> 신규 라이선스서버
+    
+    GFU-4318186A64DABFA4  --> 기존 PoC 라이선스서버
+
+
+##############################################################################################################
 2022-03-18 12:37:38
 
     경동나비엔 제안서 기술장표 초안 작성
@@ -24,6 +100,7 @@
         2022-03-18 23:36:50  일단 작성 140page 
             경동나비엔_제안서_V1_hjn15.pptx
 
+
 ##############################################################################################################
 2022-03-17 14:32:39
 
@@ -32,8 +109,8 @@
     VM 에서 CREO 설치하였으나 접속이 안됨 - VM 밖에서 접속할 수 있도록 처리 전달하였으나 움... 
 
     
-
-
+    티맥스 3DSpace 호출 시 403에러 문의 메일 답변
+        CAS 의 경우 3DPasspart 와 연계하여 ticket 을 받고 인증을 받아 다시 3DSpace 로 포워딩 시켜 주는 호출을 
 
 ##############################################################################################################
 2022-03-16 11:19:14
