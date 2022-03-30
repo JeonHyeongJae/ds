@@ -37,6 +37,15 @@
     Set-NetConnectionProfile -Name "JAIEL_SM" -NetworkCategory Private
     Get-NetConnectionProfile
 
+    My Compass  
+        combined offering/solution or new domain
+        offering to address Korea market leading agenda like
+        connect PowerBy lastest XCAD tool , Data Intelligence and etc.
+
+        KPI 상세
+    2022-03-30 21:20:50 VM 확인 
+
+
 ##############################################################################################################
 2022-03-28 ~ 2022-03-29
 
