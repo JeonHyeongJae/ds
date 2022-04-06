@@ -1,7 +1,29 @@
 
 ##############################################################################################################
+2022-04-06 10:12:21
+    모비스 친구들
+
+    2022-04-06 13:07:18
+    Tech Experience
+        Architecture, Engineering & Construction
+
+
+Components installed by dependency:
+  PIX - ENOVIA VPM 3D Indexing Configuration
+
+        2.  3DEXPERIENCE Platform Integration with Third Party systems  
+            effectivity matrix import
+            PPR 지원
+            iexplorer 에서만 log 확인... 
+
+##############################################################################################################
 2022-04-05 09:14:33
-    
+    202204_XCAD_Column_Mapping_CREO_v1.0.pptx 
+        다쏘양식으로 문서 변경
+
+    경동나비엔 제안서 최종리뷰
+        제안추진전략 - 구축 방법론... 
+
 
 ##############################################################################################################
 2022-04-04 09:05:10
