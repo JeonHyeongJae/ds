@@ -1,5 +1,44 @@
 
 ##############################################################################################################
+2022-04-07 10:47:11
+
+    Collaborative Innovation: 3DEXPERIENCE Platform Values Program
+        어렵네..
+
+    
+
+    Tech Experience
+        1. Using 3DEXPERIENCE Rest Web Services from native / batch / web clients session
+
+         git clone https://itgit.dsone.3ds.com/ww-ve-software-architects/snippets/ekl-rest-web-services-for-bookmark.git c:\startcoding\rest   
+
+        2. High-Tech_The 3DEXPERIENCE platform, an enabler for electronics for all industries
+            The High-Tech Industry team is inviting you to this 1h15 session to share with you information about our electronics offer, and especially:
+            - Global introduction about electronics
+            - System Engineering
+            - Component Mgt
+            - ECAD Power’by + PCB Validation
+            - How to order & Call to Action                                                                                                                        
+            - Live Q&A
+
+        3.  Industrial Equipment_Concurrent Equipment Engineering demonstration review   
+            Discover a new way to do Mechanical Engineering with the 3DEXPERIENCE platform !. We will introduce the latest news of the platform leveraging collaboration, design to weight, capitalization of knowledge and know-how.
+
+            Speakers:
+            RHEINS Augustin
+            TREILLARD Julien
+
+        4. Industry Process Consultant role_Leveraging the new Solution Architecture Framework for Process
+            This session will focus on the drivers behind the new Solution Architecture Framework (introducing model-based ways of working) and how this relates to contributions from the Industry Process Consultant while working on the Architecture Vision or Architecture Dossier
+
+            Speakers:
+            VOSKUIL Jos
+            JOLY Sebastien
+            PERROT Jean Yves
+                2022-04-07 18:50:05 
+
+
+##############################################################################################################
 2022-04-06 10:12:21
     모비스 친구들
 
@@ -7,14 +46,46 @@
     Tech Experience
         Architecture, Engineering & Construction
 
-
-Components installed by dependency:
-  PIX - ENOVIA VPM 3D Indexing Configuration
+    VM 에서 3D Indexing (3DShape의 경우 3D 썸네일 이미지 생성) 되지 않음 
+        재설치... 
+        Components installed by dependency:
+        PIX - ENOVIA VPM 3D Indexing Configuration
 
         2.  3DEXPERIENCE Platform Integration with Third Party systems  
+            Event Publishing widget(PFI) 데이터 I/F 
             effectivity matrix import
             PPR 지원
             iexplorer 에서만 log 확인... 
+
+        3. 3DEXPERIENCE Platform Import of XCAD Power by data
+            Update on R2021x/R2022x XPDM enhancements for on-premise environments for importing xCAD data with xPDM
+            Explain syntax and methodologies for importing Creo, NX, Inventor data
+
+        4. Supplier Integration Technologies
+            This session shows how data can be exchanged between 3DExperience platforms, as well as CATIA v5 or other xCAD systems. 
+            In this session we show which OOTB tools used to export and import graphical data, together with their collaboration tools we have available.
+            In addition we present a tactical solution developed for CATIA V5 PowerBy exchange, and new OOTB supplier package exchange for SW as well as new functionalities in 3DXML exchange.
+
+
+        
+    A.	2022 ENOVIA Certification Portfolios
+    1. CORE Learnings  
+    - All new employees ( Sales & Tech Sales ) 및 이전에 인증 받은 모든 Sales & Tech Sales ( 3DS & Partners ) 공통으로 재 인증 필요함
+    1-1 Collaborative Innovation : 3DEXPERIECE Platform Values
+    1-2 ENOVIA Brand Essentials(2022x)
+    2. SPECIALIZED Learnings 
+                    2-1 Virtual Product Development Domain Articulate 
+    – GEO Tech Sales 및 3DEXPERIENCE Authoring Deals(CATIA, DELMIA, SIMULIA) 관련 Tech Sales 인증 필요함
+
+    아래의 2-2부터 2-7까지의 Program은 ENOVIA 관련 비즈니스 영역에 대한 보다 깊은 이해를 위한 것으로 ENOVIA Brand Sales & Tech Sales 인원은 최소 2개이상 인증 필요함
+                2-2 Collaborative Design Process Values(IPEs led by UEx roles) – PowerBy(CATIA V5, SolidWorks, AutoCAD, NX, Creo등) 기반 CAD Data 관리
+                2-3 Collaborative Engineering Process Values(IPEs led by XEN) – UPS(Unified Product Structure)기반 Single BOM(EBOM-MBOM) 관리
+                    2-4 Collaborative Validation Process Values(IPEs led by DEY) – DMU 수행 및 검증 관리
+                    2-5 Planning Domain Articulate [ WIP ] – Market Trend와 Regulation 준수 기반 제품 및 서비스의 포트폴리오 정의 및 관리 
+    2-6 Program & Project Process Values(IPEs led by DPM) – 프로그램 및 프로젝트 관리
+    2-7 Enterprise Change Management Process Values(IPEs led by CHG) – 설계변경 관리
+
+
 
 ##############################################################################################################
 2022-04-05 09:14:33
@@ -131,28 +202,6 @@ R14-003 : PLM상 이슈와 Bitbucket commit 메시지 등과 상호 연동 될 �
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 ##############################################################################################################
 2022-04-03 10:00:04
     2차리뷰
