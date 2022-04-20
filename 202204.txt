@@ -1,3 +1,80 @@
+##############################################################################################################
+2022-04-19 09:12:45
+    1. FD02 What's New 검토
+        https://dsext001-eu1-215dsi0708-3dswym.3dexperience.3ds.com/?ticket=ST-6498348-DOqS5LQD9s6SNwPIUXcb-cas#community:1209/post:rcvGqGAdQieciM8uYsShIw
+
+        3DDashboard     'Search in tab' option for each tab of a 3DDashboard
+        3DSwym          Forward Wiki Pages / Forward a single page / Forward multiple page
+                MultiDownload   
+
+    2. Certi 
+        필수
+        Collaborative Innovation : 3DEXPERIECE Platform Values
+
+    3. 업무 - Partner Enablement
+        5/25(수) ~ 27(금) 
+            플랫폼 설치 교육... 
+
+    4. FD02 Docker 설치
+        bookmark 정상 보임 - 3DMessage 시작안함
+        3dxml V6 하나 올리고 native 에서 썸네일 돌림
+
+
+
+##############################################################################################################
+2022-04-18 10:11:59
+    1. FD02 Docker 설치 
+        Notification 에서 user_intension 파일 한줄추가
+            <SetVariable name="X3DCSMA_SMTP_CERT" value="true"/>
+        Sywm 에서 설치 안됨
+             설치 위치 변경이 필요?    
+                ./create-cloudview-installpath-env.sh  실행하여 바라보게함
+
+            --> bookmark 정상 보이지 않음
+
+    2. Certi 
+        필수
+        Collaborative Innovation : 3DEXPERIECE Platform Values
+
+        Virtual Product Development Domain Articulate 
+            Landscape 
+
+    3. 팀미팅
+        2022-04-18 14:13:27
+        2022 Merit Review 
+
+    4. 기타
+        FD02 What's New 검토
+        Structured Document Manager (XDO)
+        LCA (Life Cycle Assessment) 솔루션 - Sustainable Innovation Intelligence
+            cloud only -- Eco Design Assessment / Sustainablility Assesment 
+
+
+#############################################################################################################
+2022-04-15 09:25:03
+
+    연봉  ACL
+
+
+    FD02 What's New 검토
+        3DDashboard     'Search in tab' option for each tab of a 3DDashboard
+        3DSwym          Forward Wiki Pages / Forward a single page / Forward multiple page
+
+
+        MultiDownload
+        
+
+    LCA (Life Cycle Assessment) 솔루션 검토
+        Industry별로 IPE로 추가됨, Cloud only 
+        Sustainable Innovation manager (ENOVIA)
+        Sustainable Innovation analyst (NETVIBES)
+        Eco-Design Engineer (CATIA)
+        Prospect : 삼성 SDI, 로템
+
+    3~4월  Expense 작업 
+        1) 택시, 기차
+    
+
 
 ##############################################################################################################
 2022-04-14 09:40:06
@@ -11,6 +88,8 @@
         2022-04-14 13:19:27
 
     2022x FD02 올림 - windows
+
+        ./bin/Debug/net5.0/r2022x-installer.exe fp.2214 webapp all Z:\2022x_FD02_CFA.2214
 
 
 ##############################################################################################################
