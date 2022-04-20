@@ -1,0 +1,58 @@
+
+
+설치전 준비사항 (Windows Server)
+
+1. OS
+    1. Program Directories 확인하여 support 되는 버전 확인
+    2. Deployment > Strategic Platform Requirements > Server Hardware and Software Requirements
+    3. 영문 OS 준비 (날짜 포맷관련  Index 문제 )
+    4. 호스트명 및 도메인 명은 영문소문자로  _  등 특수문자 없이
+    5. 방화벽 끄기 (Disable) / UAC 끄기
+
+    In Server Manager -> Local Server:
+        Disable IE Enhanced Security in Server Manager > Local Server
+    In Control Panel -> System and Security -> Windows Firewall:
+        Disable Firewall
+    In Control Panel -> System and Security -> Change User Account Control Settings:
+        Disable User Account Control (select Never notify)
+
+2. 라이선스 서버
+    DSLS Configuration
+        md C:\DassaultSystemes\Licenses
+        Edit C:\DassaultSystemes\Licenses\DSLicSrv.txt
+
+        ap-dcr-lic01.dmz.ap.3ds.com:4085;ap-dcr-lic02.dmz.ap.3ds.com:4085;ap-dcr-lic03.dmz.ap.3ds.com:4085
+
+3. DB oracle
+    1. Program Directories 확인하여 support 되는 버전 확인
+    2. Deployment > Strategic Platform Requirements > Server Hardware and Software Requirements
+    3. 설치 후 
+
+
+
+
+##############################################################################################################################
+유용 주소
+##############################################################################################################################
+3DS Support
+URL: https://www.3ds.com/support/
+
+Product Documentation
+URL: https://www.3ds.com/support/documentation/users-guides/
+URL: https://help.3ds.com/
+
+Program Directories
+URL: https://www.3ds.com/support/documentation/program-directories/
+
+Portfolio Navigator
+URL: https://media.3ds.com/smartclass/PN_PRODUCTION
+
+Best Practices
+URL: https://www.3ds.com/support/documentation/best-practices/
+Related Materials:
+ - 3DEXPERIENCE R2022x Windows/OracleDB on Premises Installation
+And many more...
+
+Knowledge Base
+URL: https://www.3ds.com/support/knowledge-base/
+
