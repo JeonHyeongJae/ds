@@ -1,4 +1,42 @@
 ##############################################################################################################
+2022-04-20 09:08:07
+
+    1. FD02 Windows 에서 썸네일 안만들어짐.. CREO Data만 안만들어짐.. 
+        1) Native 에서 creo open 하여 썸네일 돌려봄 -- 안됨
+        2) Native 에서 3dxml import 하여 썸네일 돌려봄 -- 잘됨 -- ASSY 도 됨
+        
+
+    
+    2. swym posting
+        PAU / XEN 에서 형상없이 Part 의 구조를 만들고 싶을때 XCAD 별로 다른 설정을 가지고 있습니다. 
+
+        1. V6 3D Part Template 생성방법 
+            https://help.3ds.com/2022x/english/dsdoc/PsteAdminMap/pste-ad-t-Template-3DPartCreate.htm?contextscope=onpremise&id=1391bbd0447e4687bf5a364ff8c9009b
+
+            1) CATIA 에서 3D Part 하나 생성
+            2) MQL실행 후 생성한 3DPart 의 Name 및 Rev 확인하여 아래 Script 수행
+                Set context user creator;
+                print bus VPMReference prd-59154968-00003391 A.1 select physicalid;
+                add expression ENOUPSV63DPartTemplateID value ADE0733300005C485EA1FB31000E4C29;
+
+        2. XCAD Power'by - Template(Component, Assembly, Drawing) 등록 방법
+
+            https://help.3ds.com/2022x/english/dsdoc/ENOUpocAdminMap/enoupoc-t-configure-creotemplate.htm?contextscope=onpremise&id=7a772d5b2499445bb7fb43aa03f7ffa0
+
+            # 실제 서비스가 실행되는 폴더
+            C:\DassaultSystemes\R2022x\3DSpace\win_b64\code\tomee\webapps\3dspace\WEB-INF\resources\ups
+            # CAS Build 시 복사하는 폴더
+            C:\DassaultSystemes\R2020x\3DSpace\STAGING\ematrix\WEB-INF\resources\ups
+
+            # 해당 파일을 넣으면 바로 PSE 에서 생성가능
+            UPSCRAssemblyTemplate.asm
+            UPSCRDrawingTemplate.drw
+            UPSCRDrawingTemplate.svg
+            UPSCRPartTemplate.cgr
+            UPSCRPartTemplate.prt
+
+
+##############################################################################################################
 2022-04-19 09:12:45
     1. FD02 What's New 검토
         https://dsext001-eu1-215dsi0708-3dswym.3dexperience.3ds.com/?ticket=ST-6498348-DOqS5LQD9s6SNwPIUXcb-cas#community:1209/post:rcvGqGAdQieciM8uYsShIw
