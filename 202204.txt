@@ -1,10 +1,97 @@
 ##############################################################################################################
+2022-04-25 11:02:02
+
+0. 휴대폰 S22 울트라 
+
+1. Task 확인
+    두산공작기계
+
+2. 티멕스 제우스    
+    WS-DSK-BTCC09 -->
+
+3. Expense  
+    
+
+
+##############################################################################################################
+2022-04-22 09:28:05
+
+1. 최순호대표님 ENOVIA Knowledge sharing
+    오전.. 12까지
+
+
+9397 4227 7223
+
+2. IC Partner
+    안녕하세요. 다쏘시스템 전형재 입니다. 
+    Powerby 설치 파일은 XCADDesignConnectors 입니다. 
+
+    XCADDesignConnectors-V6R2021x.Windows64  GA 및 서버에 맞는 FD 버전을 설치 하시면 됩니다. 
+    금일 포스팅 된 "XCADConnector(PowerBy)_플랫폼연계 Guide for CREO" 에 CREO 이긴 하지만 설치 하는 방법에 대해 확인하실 수 있습니다.
+
+
+
+3. 티멕스 제우스
+    package com.matrixone.apps.framework does not exist
+    path 문제??
+
+    3DDashboard 에서 
+
+
+4. 장솜이 - 
+    project 관리
+    PMS 의 필요성... 예시.. (특정 예시... )
+
+    간트차트?
+    북마크 ??
+    이슈가 서로다른 팀이 두명이상 담당을 할 수 있나요?
+    일정 변경시 결재
+
+    PMS 장점.. 
+
+    이미지 자료와 코멘트 그리고  
+
+
+##############################################################################################################
+2022-04-21 09:28:05
+    최순호대표님 ENOVIA Knowledge sharing
+
+    1. Web 기본
+        infrastructure certi 를 따면 Server Sizing 앱(위젯)이 활성화 됨
+
+
+    2. 플랫폼 환경구축 가이드 - install 이란 용어를 사용하면
+
+        1티어
+
+    3. install  
+        FixPack     FP.2205 / FP.2214 ...
+        FixDelivery FD01    / FD02
+
+        OS
+
+
+    하루종일
+
+    4. 설치 후 XCAD 관련 설치 및 테스트
+
+    5. Infra.. advanced
+        1. Apache MPM
+        2. Platform Backup & Restore
+        3. Load Balancing
+        4. Performance
+        5. DB Maintenance
+        6. Load Test
+
+
+
+##############################################################################################################
 2022-04-20 09:08:07
 
     1. FD02 Windows 에서 썸네일 안만들어짐.. CREO Data만 안만들어짐.. 
         1) Native 에서 creo open 하여 썸네일 돌려봄 -- 안됨
         2) Native 에서 3dxml import 하여 썸네일 돌려봄 -- 잘됨 -- ASSY 도 됨
-        
+
 
     
     2. swym posting
@@ -35,6 +122,9 @@
             UPSCRPartTemplate.cgr
             UPSCRPartTemplate.prt
 
+    2. Certi 
+        필수
+        Collaborative Innovation : 3DEXPERIECE Platform Values
 
 ##############################################################################################################
 2022-04-19 09:12:45
