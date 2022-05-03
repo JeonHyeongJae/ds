@@ -1,4 +1,265 @@
 ##############################################################################################################
+2022-05-02 09:10:31
+
+    1. 한화솔루션_케미칼부문_과제선정플랫폼_솔루션(3DSWYM) 설명회 지원요청
+        1) 장표 완성 리뷰
+        2) 리허설
+
+        
+
+    2. Partner Enablement : Server Install 교육
+
+[교육 공지] 3DEXPERIENCE Admin 교육 : 5/25(수)~27(금)
+
+안녕하세요 IC팀의 전형재 기술 대표 입니다.
+플랫폼 비즈니스의 역량 강화를 위해 3DEXPERIENCE Admin 교육을 진행합니다.
+
+	교육 내용 : 3DEXPERIENCE Platform Admin Training
+	상세 내용: Server Installation, System Configuration
+        VMWare 사용법 개요 (VM 네트워크 설정, 스냅샷 사용 등)
+        3DEXPERIENCE Platform 설치 실습 (OS 설정, Reverse Proxy 설정, Oracle Database 설치, 플랫폼 설치, 설치 후 설정 등)
+
+	강사 : 전형재 기술대표
+	일정: 5/25(수)~27(금)
+	장소: 다쏘시스템 코리아(서울 강남구 아셈타워 3층, 교육장 C, D)
+	인원: 40명으로 제한
+	교육 신청: 협력사의 기술 리더 1인이 메일로 5/19일까지 HJN15@3ds.com 으로 신청요청
+	준비 사항: 플랫폼 설치가 될 수 있는 고사양 노트북 
+            1) i5 이상의 CPU (4Core 이상)
+            2) 최소32GB 이상의 메모리
+            3) SSD : 200GB 이상의 빈용량
+
+추가 문의가 있다면 comment 또는 메일 문의 부탁드립니다. 
+현재 5개사에서 20명넘게 신청중입니다. 
+
+감사합니다.
+
+
+
+    1일차 (Windows Server OS 환경)
+        VMWare 사용법 개요 (VM 네트워크 설정, 스냅샷 사용 등)
+        3DEXPERIENCE Platform 설치 실습 (OS 설정, Reverse Proxy 설정, Oracle Database 설치, 플랫폼 설치, 설치 후 설정 등)
+        R2022x-installer를 이용한 설치 실습 (3DPassport까지만)
+    2일차 
+
+
+##############################################################################################################
+2022-05-02 09:10:31
+
+한화솔루션_케미칼부문_과제선정플랫폼_솔루션(3DSWYM) 설명회 지원요청
+
+1. 그룹핑.. 기능 찾아 보기 -- 
+
+2. Partner Enablement : Server Install 교육
+    32GB 이상되는 RAM 
+    VMPlayer
+
+
+
+##############################################################################################################
+2022-04-29 09:34:42
+한화솔루션_케미칼부문_과제선정플랫폼_솔루션(3DSWYM) 설명회 지원요청
+    요청내용
+    3DSWYM Community 기반의 Ideation to 과제선정까지의 반복적인 수작업 및 파일기반의 업무를 디지털화하는 솔루션 소개
+    (설명회 & 데모)
+    현재 한화솔루션 QCELLS의 PLM 제안작업 관련 전형재 대표가 참여중인데    QCELLS 2차 RFP 배포가 차주예정으로
+
+    지원필요 일정
+    4월28일(목)-5월4일(수)까지 5일
+    고객상황
+    현재 고객의 추진 일정 계획
+     2022년내 솔루션 검토 및 Pilot 구축
+     2023년 시범운영
+     2024년 정식운영
+
+   요구사항에서 프로젝트로 연계??
+
+        요구사항 - 모델 - 프로젝트 
+
+        https://3dspace.r2022x.rs.com/3dspace/common/emxForm.jsp?SuiteDirectory=productline&productID=58493.40764.4278.30903&parentOID=58493.40764.4278.30903&formHeader=emxProduct.Heading.Properties&emxSuiteDirectory=productline&otherTollbarParams=productID%2CisStructure&HelpMarker=emxhelpproductdetails&portalMode=true&StringResourceFileId=emxProductLineStringResource&toolbar=PLCProductPropertiesToolbar&isStructure=true&form=type_Products&portalCmdName=PLCProductsProperties&jsTreeID=null&suiteKey=ProductLine&header=emxProduct.Heading.Portal.PropertiesWithRev&portal=PLCProductsPortal&objectId=58493.40764.4278.30903&tenant=
+
+   관리자
+    1. 커뮤니티 등록 
+    2. 커뮤니티 셋팅
+        관리자, 권한, 
+
+   일반사용자 
+    1. 로그인 swym 이동
+
+    2. 커뮤니티에 공지사항..
+
+    3. Idea 등록
+
+    4. tagging
+
+
+               
+
+##############################################################################################################
+2022-04-28 09:02:01
+
+1. 한화큐셀
+    PLM 구축은 큐셀 사업부 단독 프로젝트로 진행하는 것으로 결론
+
+    1) 제안작업 지원 범위, 일정 및 장소 
+    2) 장솜이 인턴 해당 제안작업 참여 
+
+
+    Tech 분은 ENOVIA의 PMS 및 PDM 영역의 Multi CAD File management 의 경험과 PMS 제안 경험이 필요할 것 같습니다. 사용 CAD는 Creo, Brics CAD, Midas MTS, 3DCS, Illustrator, ORCAD, PADS, PSIM 등이며 File base로 첨부 하는 형식으로 사용할 예정 이며, On Cloud도 검토
+
+        Cloud 
+        2022-04-28 15:50:58
+
+        한화솔루션 - 계열
+            QCEUL - ESS(에너지 저장장치) - 스타트업.. 
+                2차 RFP (지멘스, PTC, SAP)
+
+                기획 연구개발 생상(제조) 고객
+
+                Symn 
+
+            케미칼 - ENOVIA PMS + ELN ( 웨비나 사례발표 ) -- 스윔활용... 
+            첨단소재 - 
+            갤러리아    
+
+    유사한 아이디어를 그룹핑 할 수 있는 기능?
+    태그 활용방법
+
+    DPS (Exalead)
+
+일반사용자 
+    1. 로그인 swym 이동
+
+    2. 커뮤니티에 공지사항..
+
+    3. Idea 등록
+
+    4. tagging
+
+관리자
+    1. 
+
+
+
+
+
+10.91.89.99
+
+10.91.89.99 r2022x.rs.com
+10.91.89.99 3dpassport.r2022x.rs.com
+10.91.89.99 3ddashboard.r2022x.rs.com
+10.91.89.99 untrusted.r2022x.rs.com
+10.91.89.99 3dsearch.r2022x.rs.com
+10.91.89.99 3dspaceindex.r2022x.rs.com
+10.91.89.99 3dspace.r2022x.rs.com
+10.91.89.99 fcs.r2022x.rs.com
+10.91.89.99 3dnotification.r2022x.rs.com
+10.91.89.99 3dcomment.r2022x.rs.com
+10.91.89.99 3dswym.r2022x.rs.com
+10.91.89.99 3dswymindex.r2022x.rs.com
+10.91.89.99 3dmessaging.r2022x.rs.com
+
+
+2. 티멕스 제우스  
+    서버로그 확인 3
+
+    
+    'Request to use Context that has been shutdown()  해당 오류에 대한 부분은 저희 support 에서 관련 검색을 해 보았지만 저희의 경우가 워낙 특수한 상황(WAS변경) 이다 보니 의미 있는 내용을 찾지 못하였습니다. 
+    
+    다만 해당 오류는 아래의 오류부터 시작을 하는것 같습니다. 
+        java.lang.ClassCastException: class javax.json.JsonValueImpl cannot be cast to class javax.json.JsonString (javax.json.JsonValueImpl and javax.json.JsonString are in unnamed module of loader jeus.server.classloader.RootClassLoader @3f3afe78)
+    이 부분에 대해서 좀더 확인해 주시면 오류를 해결하는데 도움이 되지 않을까 하네요~~ 
+
+
+
+##############################################################################################################
+2022-04-27 09:33:15
+
+1. 티멕스 제우스    
+    WS-DSK-BTCC09 -->
+    trace type verbose,nul,mql,sql,jpo filename JHJ.log;
+
+
+    테스트 시 기동 및 종료방법과 로그 확인 방법 전달드립니다.
+    1.	기동 및 종료 방법
+    크롬브라우저 북마크에서 JEUS Webadmin 클릭 > ID : wasadmin , PW : jeusadmin1! 접속
+    > Servers > 3DSpace start/stop
+    2. Server log 경로
+    C:\TmaxSoft\JEUS8_5\logs\3DSpace\JeusServer.log
+
+    
+    일단 제가 오전에 따로 설정하여 받은 eMatrix 로그에서는 특별한 사항을 발견하지 못했습니다. ^^! 
+
+    1. 서버로그 확인 1
+        [EXA_LOGS] (2022-04-26 04:55:02) : Cannot find MatrixInstall dir 'C:\usr\local\MatrixRMI'
+        제우스 서버 로그중에  MatrixInstall 을 찾지 못하는 것이 나오는데요.. 
+        enovia.ini 에서 
+            MATRIXHOME=C:\DassaultSystemes\R2022x\3DSpace\
+            MATRIXINSTALL=C:\DassaultSystemes\R2022x\3DSpace
+        이 위치로 지정이 되어 있어서 그걸 가지고 와야 할것 같은데 이 부분 확인 부탁드립니다. 
+
+    2. 서버로그 확인 2
+        An error occurred at line: [17] in the generated java file: [/C:/TmaxSoft/JEUS8_5/domains/jeus_domain/servers/3DSpace/.workspace/deployed/_generated_/3DSpace/__jspwork/jeus_jspwork/_integrations/_800_emxIntegrations_5fjsp.java]
+        package com.matrixone.apps.framework does not exist
+
+        이는 jsp compile 할 때 아래의 path 가 잡혀져 있는지 확인해 주시기 바랍니다.
+        C:\DassaultSystemes\R2022x\3DSpace\win_b64\code\tomee\webapps\3dspace\WEB-INF\lib\eMatrixServletRMI.jar
+            해당 패키지는 (eMatrixServletRMI.jar) 에 존재함.... 
+
+
+
+    이찬영대표 확인... 
+    구글계정 - Chrome 원격데스크탑 
+        jayjeon1977@gmail.com  / abc135!! 
+    로그 및 업무 했던 내역 메일    
+        \\seo-dsk-fs01\ALL USERS SHARE\HJN15\2022_03_Taxsoft_JEUS
+
+
+
+2. 장솜이 인턴 PMS 발표
+
+    이전 발표에서 지적되었던 부분은 거의 해결.. 
+
+
+    누가 이런 롤을 수행하는지... 대한 설명이 있었으면... 
+    클라우드 기반... -- 설명 설치 없이 적용이 빠름.. 
+
+    팀장님 : 철도관련된 내용과 기능설명시 간단하게라도... 매핑.. 
+            솔루션의 장점과.. 한개씩 연계...  
+
+
+
+
+##############################################################################################################
+2022-04-26 10:55:45
+
+1. 최순호대표님 ENOVIA Knowledge sharing
+    오전.. 12까지
+
+    1) load Balancing
+
+    2) Performance
+
+    3) DB Maintenance
+        dsDBUtil 
+
+2. Expense Util
+            iframeWindow.ICAddCount.value = 1;
+            iframeWindow.submitAction_win0(iframeWindow.win0,'EXPENSE_LINES$newm$' + rowIndex +'$$0');
+
+        로 처리 완료 
+            디버깅 방법 
+            함수 찾기 방법
+    🆗
+3. 티멕스 제우스 답변
+
+    1.	/3dspace/enovia-agent/ 관련 호출은 저희가 알고 있기로는 해당 서비스는 외부와의 Interface 할 때 사용하는 서비스로 Dashboard 호출할때는 상관이 없는 부분으로 확인됩니다. 
+
+    2.	모두 error 'Request to use Context that has been shutdown()  이 에러는 TOMME 서버에서는 발생하지 않는 에러로 뭔가 이 부분이 문제일 가능성이 있는 것 같은데요
+    저희 eMatrix 와의 통신이 끊어지는 문제 인 것 같은데 저희도 좀 더 자세한 log 를 봐야 알 것 같습니다. 
+    명일 (4/27) 오전에 WS-DSK-BTCC09 서버에 접속하여 matrix 관련 log 설정으로 log 를 추출해 보고자 하니 JEUS 로 3dspace 를 설정해 주시면 좋겠습니다. 
+
+##############################################################################################################
 2022-04-25 11:02:02
 
 0. 휴대폰 S22 울트라 
@@ -10,7 +271,29 @@
     WS-DSK-BTCC09 -->
 
 3. Expense  
-    
+    experse for tranpotation 3/3~4/18
+
+    ExpenseUtil 확인
+        D:\jhj_work\20.사내\Expense\ExpenseUtil\pageScript.js
+
+        //element = await getElement(iframeWindow, 'EX_LINE_WRK_EX_INSERT_LNPB$' + rowIndex);
+        // EXPENSE_LINES$newm$0$$0 , EXPENSE_LINES$newm$1$$0
+        // return AddMultiple_win0(document.win0.ICAddCount);
+        //element = await getElement(iframeWindow, 'EXPENSE_LINES$newm$' + rowIndex +'$$0');
+        //element.click();
+        try{
+            iframeWindow.ICAddCount.value = 1;
+            iframeWindow.submitAction_win0(iframeWindow.win0,'EXPENSE_LINES$newm$' + rowIndex +'$$0');
+            //element = AddMultiple_win0(iframeWindow.ICAddCount);
+            //alert("OK");
+        } catch (error) {
+            //alert("NG");
+            console.log(error);
+            element = await getElement(iframeWindow, 'EXPENSE_LINES$newm$' + rowIndex +'$$0');
+            element.click();
+        }       
+
+4. 팀미팅
 
 
 ##############################################################################################################
@@ -281,7 +564,8 @@
 
     
 
-    Tech Experience
+    Tech 
+    
         1. Using 3DEXPERIENCE Rest Web Services from native / batch / web clients session
 
          git clone https://itgit.dsone.3ds.com/ww-ve-software-architects/snippets/ekl-rest-web-services-for-bookmark.git c:\startcoding\rest   
