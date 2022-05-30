@@ -4,7 +4,13 @@
 
         FixPack     FP.2205 / FP.2214 ...
         FixDelivery FD01    / FD02
-1. OS
+
+        VMWare
+            Snapshot - 무조건 VM서버 종료 후
+            버전 및 CPU 설정에 따라 성능차이 남 -- 이유는 모름
+
+
+1. OS 환경설정
     1. Program Directories 확인하여 support 되는 버전 확인
     2. Deployment > Strategic Platform Requirements > Server Hardware and Software Requirements
     3. 영문 OS 준비 (날짜 포맷관련  Index 문제 ) - 필수 (특히 DB가 oracle일 경우 )
@@ -12,15 +18,15 @@
         방화벽은 내리는데 실제 production 시에는 그럴 수 없음
 
     4. 호스트명 및 도메인 명은 영문소문자로  _  등 특수문자 없이
-    5. 방화벽 끄기 (Disable) / UAC 끄기
-
-    In Server Manager -> Local Server:
-        Disable IE Enhanced Security in Server Manager > Local Server
-    In Control Panel -> System and Security -> Windows Firewall:
-        Disable Firewall
-    In Control Panel -> System and Security -> Change User Account Control Settings:
-        Disable User Account Control (select Never notify)
-
+    5.  1) Date 포맷 영문화 : 
+            In Control Panel -> Clock, Language and Region -> Date and Time:
+                Set Format to English (United States)
+                Set Home Location to United States
+        1) 방화벽 끄기 (Disable) 
+        2) UAC 끄기
+        3) Registry 설정
+        HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\system\EnableLUA 값을 0으로 변경
+        재부팅
 
 
 2. 라이선스 서버
@@ -37,6 +43,8 @@
     4. 스키마 및 설정
 
 4. 아파치 - ssl 설정
+    WS vs WAS : https://gmlwjd9405.github.io/2018/10/27/webserver-vs-was.html
+
 
 5. 플랫폼
     3DSpaceIndex
