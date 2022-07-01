@@ -1,14 +1,759 @@
 ##############################################################################################################
+2022-07-01 09:08:08
+HKMC MBSE 플랫폼 제안요청
+    1. PoC 시나리오 작성 
+
+    2. Reqtify 라이선스 ,SET, VOA DSLS 라이선스 추가요청
+
+
+##############################################################################################################
+2022-06-30 09:58:16
+  HKMC MBSE 플랫폼 제안요청
+    1. PoC 시나리오 작성 
+      1. pms 4장 작업완료
+
+      2. 중량 data 연게
+
+      3. Raw Data 연계(csv)
+
+    2. Reqtify 라이선스 ,SET, VOA DSLS 라이선스 추가요청
+
+  2. TMAX 제우스 플랫폼 연계
+    3DSYWM 에러 부분 확인 후 작업하여 메일 전송
+
+
+##############################################################################################################
+2022-06-29 09:58:16
+
+  HKMC MBSE 플랫폼 제안요청
+
+
+  2022-06-29 13:59:14
+  심형보책임 - 요구사항 부분 마지막 설명회
+
+    FPR
+
+    AER(전비) - 완충하면 얼마만큼 이동가능한가?
+
+    결국 data 주지 않는다.
+
+
+##############################################################################################################
+2022-06-28 09:46:25
+  HKMC MBSE 플랫폼 제안요청
+    프로젝트 설명회
+
+각사에서 전체 프로세스를 빼도 되는가? 안됨
+
+PMD1 - 차량아키텍쳐개발팀/이인구책임
+      프로젝트 = 차종(마스터 스케줄)
+      프로세스 구조 - Activity 조합
+
+      사용자조직 : 시스템관리자 / 
+          APM - 차종PM -Leader  : apm_01
+          현업 사용자(실무자) : eng_01, simul_01, test_01, arch_01
+          임원 (현황) / : offi_01
+
+        실제 역할은 아님 -- 차량PM / 일반사용자
+
+
+
+        오토웨이의 사용자 정보 I/F --- Customizing
+
+        98개의 Activity 로 조합하여 사용되고 있음 
+
+        M-40 / M-35 ... 
+
+        워크 플로우 ??????   액티비티 선후관계 일대 다 연계? -- 조직 팀별로 
+
+        재료비/중량/투자비 -- Custom I/F 임 키인은 의미 없음
+        Project Space > Phase()
+
+
+        hkmcPhase_Ref / hkmc_PRModuel, hkmc_PRWeight, hkmc_PRInvest, hkmc_PRMat
+
+
+
+현황
+
+
+
+
+      차주 화요일 오후 프로젝트 관련 평가시나리오 설명
+
+      연결공정 등록 -- dependency 와는 조금 다른? 표시만 해달라?
+      APM - 관리자 .. 
+      판단기준 - Question
+      표
+
+      플랫폼 -- 차종들의 그룹핑 상위개념 -- Program (EM, ES)
+      표준프로세스와는 달리 마스터스케줄은 수정해서 등록할 수 있는기능 .. 
+
+      아키텍쳐 --> 프로젝트 자동연계? 
+
+      액티비티 수행여부 -- APM 입장에서 
+
+      모듈러 시스템 I/F - 주요모듈(배터리, 모터) 재료비/중량/투자비   WICS(중량정보시스템)
+        -- 총중량만이라도 관리하자... ABOM(모듈BOM) 단계에서
+        85개 전 모듈중에 주요모듈만 관리
+
+      프로젝트 승인전 gate의 체크리스트
+
+
+##############################################################################################################
+2022-06-27 09:15:40
+  HKMC MBSE 플랫폼 제안요청
+    정선호, 차동호 
+
+    셋팅 확인 - 3DDashboard 메뉴 확인
+    개발건 - 위젯 화면 개발?
+
+
+    시스템 구성도 초안
+      2022-06-27 10:45:53
+
+  팀미팅
+    Certi 분기별1개 총 3개?
+  
+
+
+
+##############################################################################################################
+2022-06-24 15:03:48
+  워크샵 - 강화도
+
+  조양방직 - 천주성당/철종외가? - 젓국갈비 - 티앤림레포츠(서바이벌/짚라인) - 강화씨사이드리조트 루지 - 누리펜션타운
+
+
+##############################################################################################################
+2022-06-23 15:03:48
+  HKMC MBSE 플랫폼 제안요청
+    1. PoC 준비
+      1) 개발자 2명  - 
+
+        
+
+    2. PoC 관련 회의
+        2022-06-23 17:30:18
+        기능요건서 리뷰.. 
+
+        powerby 란 용어 사용하지 말자.. 
+
+         
+        메뉴명 한글/영문  변경?
+        Catia Magic / 다이몰라  -- 서버 : Flex 라이선스서버 설치
+
+        SysML 표준 Tool BMT
+
+        WebService 개발이 필요 - 조건을 주면 원하는 objId 나오게 하는 서비스
+         
+
+##############################################################################################################
+2022-06-22 08:57:36
+  HKMC MBSE 플랫폼 제안요청
+    1. 제안서 기술장표 작성중
+      2022-06-22 17:49:09 작성완료
+
+    2. PoC 
+      1) pms 개발건 리스트업
+        1. project template 에서 담당group 연계
+        2. 메뉴명 한글/영문  변경
+        3. UM5 사용여부
+        4. project code 및 개요처 내용 attr 추가 (TXO or ConfigCenter. or mql)
+
+##############################################################################################################
+2022-06-21 09:04:49
+  HKMC MBSE 플랫폼 제안요청
+    1. 제안서 기술장표 작성중
+      7)타스크 컴포저(TPC)
+
+    2. PoC 설명회
+      1) A-3-2 중량 데이터 연계 관리
+        경량화기획추진팀 / 도병훈파트장
+        내부Data WICS 데이터 
+          개발단계별 중량정보 관리(시점상)
+          출도전 : UPG lvl -- 
+            AG 단계에서는 UPG 보다 상위레벨(시스템 레벨... ABOM) 
+          출도이후 : Part lvl 
+
+          CVW / GVW ?? 
+
+          Technical Weight --> VDL 
+
+          input data 바로 제공(내일?)
+
+          시스템lvl 바로하위 ABOM (현재 개발중)
+
+      2) A-3-1 외부 D/B 연계
+        A2Mac1 / 외에 몇개 더 존재함 
+        케어소프트?
+          HKMC BOM 구조 매핑 작업이 필요 - RPA 매핑로직... 
+            동일하게 정의된 CVW / 서스펜션중량.. 
+        연구소에서 직접 경쟁차분석
+
+        VDL param 은 BOM lvl 따라간다.... 
+
+        import  
+
+        외부링크 연계... 
+
+        지맨스문의 - 
+        
+        A2Mac1 : STL 파일 다운로드/ 3dxml 형태의 뷰잉데이터 제공 
+
+        시나리오를 공유???? 성능목표
+
+      3) A-6-1 성능목표 설정/관리
+        차량컨셉개발팀 / 심용보책임
+
+        A-4- 주행성능 --- 비슷함.. 
+
+        성능목표 - 차량 > 시스템 > ... 
+         FPR - 1D Model
+         성능검증모델 - 통합해석... 아메심, 파이선... 합쳐서 
+
+         차량컨셉개발팀과 지맨스가 프로젝트를 하였음.. -- 추가 미팅을 통해.. 보여
+          오토에버  이동원책임이 동의 해야함... 
+
+      4) 요구사항 부분 설명
+        이정훈책임 간단히 설명
+        SPP 보다는 FIC나 FPR의 요건으로 표현하는 것이 좀 더 상세하게 요건이 올것이다.
+
+      5) 차량아키텍쳐개발팀/이인구책임
+        ** 프로세스 = 표준템플릿 --> 주체(그룹)
+        플랫폼 - 차종군 PROGRAM?
+        AG2 ~ 4 
+        *** 강조 ***
+          양사의 기존시스템의 Tailoring 
+          사용자 관점에서 쉽게 접근할 수 있을지?
+          일관적인 구현이 필요
+
+      TDP -- 표준시험항목 
+        Task > 시나리오(컴포저) > 모델 > 파라메터의
+
+      1. VRP 를 사용할것인가?
+      2. 라이브러리와 어떻게 엮을 것인가?
+      3. Task 에 시나리오 연계를 무엇으로 보여줄것인가? - 시나리오컴포저?  
+      차주화요일(6/28)
+
+
+##############################################################################################################
+2022-06-20 09:04:49
+  HKMC MBSE 플랫폼 제안요청
+    1. 제안서 기술장표 작성중
+      7)타스크 컴포저(TPC)
+
+    2. PoC 설명회
+      1) 6/20(월, 10:30~ 12:00) : 세션1 - SysML, 1D/3D CAE 
+        이동규책임   2022-06-20 10:45:16 - 김성환
+          C-1 input data 전달 일정 - 금주초내에 진행예정
+          C-2
+
+        정일수책임 2022-06-20 11:00:43
+          B-2   1D CAE  - 추후에 자세히 input 모델(다이몰라로 진행) CFG 의 확장성만 아니 간단하게라도 보여달라
+            목표성능만족도 - 시험 pass/fail
+
+        김형규책임
+          B-3  통합성능최적화MDO - 설계변수와의 연계, 모델사이의 연결, 사용변수 사이의 연계 
+
+        WrapUp  2022-06-20 11:50:27
+
+
+      2) 6/20(월, 14:00~ 16:00) : 세션2 - Interior/Exterior Package, Platform Package, 설계-해석 협업, VDL-MDL 자동입력/저장
+        2022-06-20 14:07:50
+          A-5-1 2D 마네킨 자동착좌 및 하드포인트 추출 MDL/VDL 
+            중립포맷이 아니라 V5 or NX 포맷으로 나와야함 -- 
+          A-4-1 RAW Data 포맷 입력
+            VDL input 이력관리 
+            이미지는 차종별 input 으로 제공
+
+          A-4-5 정적/동적 지상고검증 
+
+          B-1
+          CFG - MDL - VDL - TPC - SC  
+
+          이한준 --> GE망 보안프로그램설치 / 
+
+          데이타 제공일정 --
+
+      3) 6/21(화, 10:00~ 12:00) : 세션3 - 내/외부D/B연계, 성능목표 확정, 프로젝트관리 
+
+
+
+
+##############################################################################################################
+2022-06-17 09:04:49
+
+
+
+##############################################################################################################
+2022-06-16 09:04:49
+
+  제안서 - PMD1  작업 1차완료
+
+##############################################################################################################
+2022-06-15 09:59:16
+  HMC 제안요청 RFP 설명회 - 디지털엔지니어링   /이정훈  ( 오토에버 이동훈 책임 )
+
+    PMD1 - 차량아키텍쳐개발팀/이인구책임
+      프로젝트 = 차종
+      프로세스 구조 - 
+
+      차주 화요일 오후 프로젝트 관련 평가시나리오 설명
+
+      연결공정 등록 -- dependency 와는 조금 다른? 표시만 해달라?
+      APM - 관리자 .. 
+      판단기준 - Question
+      표
+
+      플랫폼 -- 차종들의 그룹핑 상위개념 -- Program (EM, ES)
+      표준프로세스와는 달리 마스터스케줄은 수정해서 등록할 수 있는기능 .. 
+
+      아키텍쳐 --> 프로젝트 자동연계? 
+
+      액티비티 수행여부 -- APM 입장에서 
+
+      모듈러 시스템 I/F - 주요모듈(배터리, 모터) 재료비/중량/투자비   WICS(중량정보시스템)
+        -- 총중량만이라도 관리하자... ABOM(모듈BOM) 단계에서
+        85개 전 모듈중에 주요모듈만 관리
+
+      프로젝트 승인전 gate의 체크리스트
+
+  2022-06-15 11:18:53
+    요구사항관리  - 차량컨셉팀/심용보책임
+      고객VOC
+      SPP -- ppt 양식을 받아 요구사항으로 db 화 하였으면 한다. 
+      신기술, 
+      FIC - 차종별 기본제원, 중량, 타이어정보, 성능목표, 방향성 - -excel 관리 100개 이상
+        excel upload 기능 - reqtify 사용?
+        특정항목은 누가 관리하는지 지정되어야함..
+      FPR - 추적 시나리오... 
+
+    성능목표관리
+      FIC / FPR 의 교집합 주요항목에서 성능목표로 정하고 
+
+
+  2022-06-15 12:01:56
+    VDL - AG1 ~ VG6 ---10
+
+
+    아키텍쳐 통합시트 -- VRP 비슷함...
+
+    담당자 지정기능을 따로 ENV 에 모아 놓았음..
+     --> 프로젝트별 담당자 지정을 
+
+
+    타스크 버전 및 리비전 관리(어느 Gate 에 속해 있는가 AG1... ) 기능
+    --> 파라메터의 조합 / 모델의 조합
+     
+    2022-06-15 14:29:04
+
+    PoC 
+    FD02 사용하지마라~~
+
+##############################################################################################################
+2022-06-14 10:13:48
+
+  - 기본기능(시스템관리자/프로젝트관리자)
+        1) 시스템 관리자 로그인
+        2) 특정 사용자(프로젝트 관리자, 일반 사용자) 권한부여
+        3) 프로젝트 관리자 로그인
+        4) 타시스템 연계화면 (WebPage Reader, Quick Link or WebNotes)
+        5) My Task 확인
+
+        표준 프로세스 (프로젝트관리자)
+        1) 표준프로세스(Project Template) 을 신규 등록 - csv 를 통해 등록 및 수정
+        2) 표준액티비티(Phase, Gate, Task) 추가 및 수정 삭제
+        3) 연결공정: Task 상하위, Task 간 Dependency(FS,FF..) 지정
+        4) 산출물, 결과물 지정
+        5) 수행여부 판단기준(Question) 등록
+
+        프로젝트 정보관리 (프로젝트 관리자)
+        1) 신규프로젝트 생성 - 표준프로세스(Project Template) 로 생성
+          --> 생성시 Question 에 따른 특정 Task 자동 등록 
+        2) 프로젝트 스케줄 확인(Gantt) 및 테일러링
+        3) 프로젝트 Task 별 수행 담당자지정
+        4) 프로젝트 비용 관리 (재료비/투자비)  
+        5) 중량Data 관리????  - custom
+
+
+        프로젝트 수행관리 (일반 사용자)
+        1) My Task 확인(Collaborate Task 위젯)
+        2) 산출물 확인 및 등록
+        3) 리스크 / 이슈 등록
+
+        프로젝트 승인관리 (프로젝트 관리자)
+        1) 프로젝트 수행 승인
+        2) 프로젝트 일정 변경 
+        3) 프로젝트 보류/취소
+        4) 프로젝트 완료 승인
+
+        결과점검/피드백
+        1) 프로젝트 현황 확인
+        2) 프로젝트 Gate 별 확인 (체크리스트, 회의, 결정사항 확인)
+        3) 이슈 확인
+
+
+##############################################################################################################
+2022-06-13 09:01:01
+
+  1. HKMC MBSE  제안 및 PoC
+    1) 제안 서버 구성 사양 및 네트워크 관련 검토
+      2022-06-13 11:42:13
+
+    2) 통합기능 요건 검토 
+        - 제안 219개의 요건 확인
+            1)요구사항관리(REQ) - 28 EONVIA (26/2/0) Custom.:2
+          2)프로젝트관리(PMD-1) - 60 ENOVIA (56/2/2) Custom.:2, Tailoring:2
+            3)성능목표관리(PMD-2) - 10 5:ENOVIA (5)
+            4)밸류데이터라이브러리(VDL) - 28 ENOVIA (17/3/8)
+            5)모델라이브러리(MDL) - 26 25:ENOVIA (22/3/1)
+            6)시나리오컴포저(SC) - 26 0:ENOVIA
+          7)타스크 컴포저(TPC) - 21 21:ENOVIA (19/0/2)
+          8)시스템_환경지원(ENV) - 20 ENOVIA (18/2/0)
+
+        PMD-1, TPC 부분 담당  -- 질문사항 정리
+        프로세스와 액티비티의 차이
+
+        2022-06-13 13:44:42 
+
+    3) PoC 시나리오
+      1) Main 
+      A-1-1	프로젝트 및 현황·지표 관리  - PMD1 - 전형재
+        MLM custom 내용 확인 및 동일 구현
+  --> HMC 제공 Data 확인
+        - 기본기능(시스템관리자/프로젝트관리자)
+        1) 시스템 관리자 로그인
+        2) 특정 사용자(프로젝트 관리자, 일반 사용자) 권한부여
+        3) 프로젝트 관리자 로그인
+        4) 타시스템 연계화면 (WebPage Reader, Quick Link or WebNotes)
+        5) My Task 확인
+
+        표준 프로세스 (프로젝트관리자)
+        1) 표준프로세스(Project Template) 을 신규 등록 - csv 를 통해 등록 및 수정
+        2) 표준액티비티(Phase, Gate, Task) 추가 및 수정 삭제
+        3) 연결공정: Task 상하위, Task 간 Dependency(FS,FF..) 지정
+        4) 산출물, 결과물 지정
+        5) 수행여부 판단기준(Question) 작업진행
+
+        프로젝트 정보관리 (프로젝트 관리자)
+        1) 신규프로젝트 생성 - 표준프로세스(Project Template) 로 생성
+        2) 프로젝트 스케줄 확인 및 테일러링
+        3) 프로젝트 Task 별 수행 담당자지정
+        4) 프로젝트 비용 관리 (재료비/투자비)  
+        5) 중량Data 관리????
+
+
+        프로젝트 수행관리 (일반 사용자)
+        1) My Task 확인
+        2) 산출물 확인 및 등록
+        3) 리스크 / 이슈 등록
+        4) 산출물 등록 및 확인
+
+        프로젝트 승인관리 (프로젝트 관리자)
+        1) 프로젝트 수행 승인
+        2) 프로젝트 일정 변경 
+        3) 프로젝트 보류/취소
+        4) 프로젝트 완료 승인
+
+        결과점검/피드백
+        1) 프로젝트 현황 확인
+        2) 프로젝트 Gate 별 확인 
+
+
+      A-3-2	중량 데이터 및 중량 목적 모델 연계 관리 - WICS 는 txt data 설명들어봐야함 - 전형재
+        사양-요구사항-파라미터(중량) 연계 정보 구현
+        GMA 프랙티스 활용 (아키텍처 게이트-사양 등)
+        import 기능 + 파라미터 연계
+        table 형태로 display (개발)
+      A-4-1	패키지 Raw 데이터 관리 - 전형재
+
+      2) Sub 
+        주행 성능 파라미터·1D모델 관리 및 검증 
+        성능 목표 설정·관리 및 데이터 추적성	"시나리오 프로세스를 탭으로 구성 필수 항목 구현에서 재활용 할 수 있는 부분 확인"
+
+
+  2. 팀미팅
+    -- 장솜이 인턴.. 합격
+    HMC AAM 
+
+##############################################################################################################
+2022-06-10 09:55:21
+
+  1. TMAX 제우스 플랫폼 연계
+    테스트 시나리오
+    1) 신규 유저 생성, CS 지정, 가이 및 로그인
+      - 3DPassport , 3DSpace , 3DDashboard
+        2022-06-10 10:17:09 성공
+
+    2) 3DDashboard 생성 수정 공유 
+      - 3DDashboard, 3DNotification
+        2022-06-10 10:27:32 성공
+
+    3) Bookmark Editor 에서 첨부 및 3DPlay 확인 
+      - 3DDashboard, 3DSpace, FCS(NoCAS)
+        2022-06-10 10:28:00 성공
+
+    4) Native 연결하여 3DData import 
+      - 3DSpace, FCS(NoCAS)
+        2022-06-10 10:39:41 성공
+
+    5) Native 에서 편집 후 저장 확인
+      - 3DSpace, FCS(NoCAS)
+        2022-06-10 10:39:46 성공 
+
+    6) 검색 
+      - 3DSpace, Feaderate Search(통합검색), 3DSearchindex, 3DDashboard
+      2022-06-10 10:40:12 -- 스케줄러 통한 자동 인덱싱 문제-- 원래 문제일 수 있음
+
+
+    7) PAU 에서 형상 생성, 수정, 삭제, Lifecycle, Revise
+      - 3DSpace, 3DDashboard
+        Revise 정상작동 안함 / 사용자 Role 추가 시 화면
+
+오류시 관련 에러log 
+
+class java.lang.Boolean cannot be cast to class java.lang.String (java.lang.Boolean and java.lang.String are in module java.base of loader 'bootstrap')
+prepareRevise OK
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+Warning: Nashorn engine is planned to be removed from a future JDK release
+IPLMDictionaryServices.getTypeInfo START
+
+class java.lang.Boolean cannot be cast to class java.lang.String (java.lang.Boolean and java.lang.String are in module java.base of loader 'bootstrap')
+class java.lang.Boolean cannot be cast to class java.lang.String (java.lang.Boolean and java.lang.String are in module java.base of loader 'bootstrap')
+prepareRevise OK
+
+
+[2022.06.09 18:50:02:392][1] [3DSpace-101] [WEB-3323] Worker (http1-43): An error occurred while processing the request.
+<<__Exception__>>
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [17] in the generated java file: [/C:/TmaxSoft/JEUS8_5/domains/jeus_domain/servers/3DSpace/.workspace/deployed/_generated_/3DSpace/__jspwork/jeus_jspwork/_integrations/_800_emxIntegrations_5fjsp.java]
+package com.matrixone.apps.framework does not exist
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:104)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:199)
+	at jeus.servlet.jsp.compiler.JeusJasperCompilerImpl.generateClass(JeusJasperCompilerImpl.java:212)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:400)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:372)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:359)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:619)
+	at jeus.servlet.jsp.JspEngine.parseAndCompile(JspEngine.java:366)
+	at jeus.servlet.loader.JspReloader.getInstance(JspReloader.java:203)
+	at jeus.servlet.loader.ServletReloader.getServlet(ServletReloader.java:45)
+	at jeus.servlet.jsp.JspServletWrapper.executeServlet(JspServletWrapper.java:67)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:113)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.matrixone.apps.domain.util.LicCheckFilter.doFilter(LicCheckFilter.java:98)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.dassault_systemes.cv.servlet.CVServletWebCacheLoader.doFilter(CVServletWebCacheLoader.java:82)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.matrixone.apps.domain.util.IECompatabilityFilter.doFilter(IECompatabilityFilter.java:38)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.matrixone.apps.domain.util.XSSInputFilter.doFilter(XSSInputFilter.java:317)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at org.jasig.cas.client.util.HttpServletRequestWrapperFilter.doFilter(HttpServletRequestWrapperFilter.java:70)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.dassault_systemes.dspassport.cas.client.validation.BubbleKeepAliveFilter.doFilter(BubbleKeepAliveFilter.java:83)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.dassault_systemes.dspassport.cas.client.authentication.DynamicServiceUrlAuthenticationFilter.doFilter(DynamicServiceUrlAuthenticationFilter.java:232)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.dassault_systemes.dspassport.cas.client.validation.DynamicServiceUrlAbstractTicketValidationFilter.doFilter(DynamicServiceUrlAbstractTicketValidationFilter.java:386)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.dassault_systemes.dspassport.cas.client.validation.CASProxyTicketValidationFilter.doFilter(CASProxyTicketValidationFilter.java:141)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.dassault_systemes.plmsecurity.ticket.servlet.LoginTicketAuthenticationFilter.doFilter(LoginTicketAuthenticationFilter.java:78)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.dassault_systemes.dspassport.cas.client.session.SingleSignOutFilter.doFilter(SingleSignOutFilter.java:99)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at com.matrixone.servlet.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:173)
+	at jeus.servlet.filter.FilterChainImpl.internalDoFilter(FilterChainImpl.java:99)
+	at jeus.servlet.filter.FilterChainImpl.doFilter(FilterChainImpl.java:87)
+	at jeus.servlet.engine.ServletWrapper.execute(ServletWrapper.java:148)
+	at jeus.servlet.jsp.JspServletWrapper.execute(JspServletWrapper.java:57)
+	at jeus.servlet.valve.ContextBasicValve.invoke(ContextBasicValve.java:82)
+	at jeus.servlet.valve.VirtualHostBasicValve.invoke(VirtualHostBasicValve.java:15)
+	at jeus.servlet.valve.WebContainerBasicValve.invoke(WebContainerBasicValve.java:67)
+	at jeus.servlet.engine.RequestProcessor.run(RequestProcessor.java:211)
+	at jeus.util.pool.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:1301)
+	at jeus.util.pool.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:1345)
+	at jeus.servlet.engine.WebThreadPoolExecutor$WebRequestWorker.run(WebThreadPoolExecutor.java:201)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+<<__!Exception__>>
+
+    8) CA Release
+      - 3DSpace, 3DDashboard
+      2022-06-10 11:19:39 성공
+
+    9) PMS 에서 project 생성 및 WBS 편집,수정,삭제 (webapp)
+      - 3DSpace
+      2022-06-10 11:24:26 성공
+
+    10) Collaborative Task 에서 신규 Task 생성 , 다른담당자 지정, Notification 확인
+      - 3DDashboard, 3DNotification
+      2022-06-10 11:24:39 CA 테스트시 확인완료
+
+    11) Task 에서 Comment 를 특정 사용자에게 send 하여 Notification 확인
+      - 3DDashboard, 3DNotification, 3DComment
+      2022-06-10 11:29:32 성공
+
+    12) 3DSywm 커뮤니티 등록 
+
+    13) 3DSywm 커뮤니티에 posting 생성, 수정, 삭제 , 동영상추가(streamming service)
+
+    14) 통합검색에서 커뮤니티 posting 검색
+
+
+
+
+
+
+##############################################################################################################
+2022-06-09 09:06:47
+  1. HKMC MBSE 제안 및 PoC
+    1) Main 
+    A-1-1	프로젝트 및 현황·지표 관리  - PMD1 - 전형재
+      MLM custom 내용 확인 및 동일 구현
+--> HMC 제공 Data 확인
+      1) 시스템 관리자 로그인
+      2) 특정 사용자(프로젝트 관리자, 일반 사용자) 권한부여
+      3) 프로젝트관리자 로그인
+      4) 타시스템 연계화면 (WebPage Reader, Quick Link or WebNotes)
+      5) My Task 확인
+
+    A-3-2	중량 데이터 및 중량 목적 모델 연계 관리 - WICS 는 txt data 설명들어봐야함 - 전형재
+      사양-요구사항-파라미터(중량) 연계 정보 구현
+      GMA 프랙티스 활용 (아키텍처 게이트-사양 등)
+      import 기능 + 파라미터 연계
+      table 형태로 display (개발)
+    A-4-1	패키지 Raw 데이터 관리 - 전형재
+
+    2) Sub 
+      주행 성능 파라미터·1D모델 관리 및 검증 
+      성능 목표 설정·관리 및 데이터 추적성	"시나리오 프로세스를 탭으로 구성 필수 항목 구현에서 재활용 할 수 있는 부분 확인"
+
+
+  2. 서버 설치 
+    WS-DSK-HKMC01 
+    1) 라이선스 1차 - DSLS / Flex
+target id : AIM-431B1486E218F1A1
+host name : WS-DSK-HKMC01(platform, license) / WS-DSK-HKMC02 (DB, orchestration)
+
+    2) 설치 코드 - GA / FD02     
+
+  3. MLM 서버 올림 - WS-DSK-BTCC08
+    1) custom 내역 확인해서 바로 적용할 수 있는가? X 
+
+
+##############################################################################################################
+2022-06-08 10:02:11
+    1. HKMC MBSE 제안 및 PoC
+        Mandatory : 10
+            C-1-1	기술형 모델 ↔ 프로세스 ↔ 데이터 연계·관리
+              magic -- Archi Model & 요구사항 & Parameter
+              Task에 산출물로 연계 - 안됨 / FLEditor-- 사용X
+              UseCase 를 만들어... R&D개발요청 본사(6개월 시범)
+              parameter import 기능 개발 (이찬영 + 개발자?) - process composer 통해 진행
+            C-2-1	업무FLOW ↔ 아키텍처 ↔ 해석 모델 연결
+        Option : 9
+            B-4-1	다중 성능 예측 및 최적화 (MDO) 
+              -- B-2-1 에서 1D외에 3D를 하나 붙여서 보여주던지 동영상으로 대응
+            A-4-1	패키지 Raw 데이터 관리 - 전형재
+            A-2-1	SPP – 고객 요구사항 정의
+            A-3-1	외부 상용 DB 연계 (A2Mac1) 및 활용
+            A-6-1	성능 목표 설정·관리 및 데이터 추적성
+            B-1-1	제품안 → 3D 모델, VDL·MDL 입력 자동화
+            A-4-2	차량 단면 변화관리를 통한 3D 패키지 검토
+            A-4-3	파라미터 인풋을 통한 내·외장 3D 데이터 생성
+            A-4-5	P/T 검증 데이터·시나리오 관리 및 검증 
+    2. 
+     A-1-1	프로젝트 및 현황·지표 관리  - PMD1 - 전형재
+     A-3-2	중량 데이터 및 중량 목적 모델 연계 관리 - WICS 는 txt data 설명들어봐야함 - 전형재
+     정규프로세스 / 비정규프로세스
+     플랫폼/프로젝트
+
+
+##############################################################################################################
 2022-06-07 09:30:23
-    1. 
+    1. HKMC MBSE 제안 및 PoC
+      1) 문서정리 - LG MBSE 자료 확인
+      
+      2) MBSE 회의
+        2022-06-07 13:38:29
+        시나리오
+        Mandatory : 10
+            A-1-1	프로젝트 및 현황·지표 관리 - PMD1 - 전형재  
+              - src 변경이 있는지 확인 - 곽준범
+              - input data 어디까지 제공하는지 확인
+            A-3-2	중량 데이터 및 중량 목적 모델 연계 관리 - WICS 는 txt data 설명들어봐야함 - 전형재
+              중량관련 요구사항 import 처리? - 요구사항아래 parameter 로 정보 -- custom / 
+            A-2-2	고객 → 엔지니어링 요구사항 변환  및 관리 - 이찬영
+              모두 OOTB -- req
+            A-2-3	엔지니어링 요구사항 → 성능 목표 설정 - 이찬영
+              VDL data 를 경쟁차DB(A2Mac1 ) 일 가능성 - data 를 csv 로 떨어뜨려야함... 
+              model_version 에 attr 정의하여 하였으나 모델&라이브러리로 import 하여 진행할 수 있음 
+            A-2-4	제품안 → VDL, MDL 데이터 자동입력 - 작년 pkg MBSE 했던 내용(SFE컨셉)
+              기존data 확인필요 (아이오닉5 -)
+              신규로 간단하게 만들어야 하나? 가능한가?
+            A-4-4	정적·동적 지상고 검증
+              해석쪽은 -경쟁사(지맨스아님), -- 우리쪽 제품 대응 어려움 서스펜션까지 고려한 지상고 측정요청(Adams)
+              2022-06-07 15:15:06 -- input data 의 상세한 문의 필요 어느 정도 
+            A-5-1	2D 마네킨 자동 착좌, 하드 포인트 추출·관리 
+              V6 --> V5 로 변경.. 중간모델이 있음 / CAD,PC --> ISight(V6) /
+            B-2-1	주행 성능 파라미터·1D모델 관리 및 검증  -- 경쟁사(아메심)
+              우리 내부 데이타로는 억지로 보여줄 수는 있음
+              관련 조건을 상세히 문의? 1D 전문가 필요.. IVH담당자필요? 
+                FMU 모델을 현차가 만들어 주어야 한다.(중립포맷같은 형태)
+            C-1-1	기술형 모델 ↔ 프로세스 ↔ 데이터 연계·관리
+            C-2-1	업무FLOW ↔ 아키텍처 ↔ 해석 모델 연결
+        Option : 9
+            B-4-1	다중 성능 예측 및 최적화 (MDO) - 
+            A-4-1	패키지 Raw 데이터 관리
+            A-2-1	SPP – 고객 요구사항 정의
+            A-3-1	외부 상용 DB 연계 (A2Mac1) 및 활용
+            A-6-1	성능 목표 설정·관리 및 데이터 추적성
+            B-1-1	제품안 → 3D 모델, VDL·MDL 입력 자동화
+            A-4-2	차량 단면 변화관리를 통한 3D 패키지 검토
+            A-4-3	파라미터 인풋을 통한 내·외장 3D 데이터 생성
+            A-4-5	P/T 검증 데이터·시나리오 관리 및 검증          
+        기술장표
+          PMD1, TPC, ENV 의 101?
+        제안장표
+
+
 
 ##############################################################################################################
 2022-06-03 09:30:23
     1. HKMC MBSE 제안 및 PoC    
         19건의 시나리오 
         Mandatory : 10
-            A-1-1	프로젝트 및 현황·지표 관리
-            A-3-2	중량 데이터 및 중량 목적 모델 연계 관리
+            A-1-1	프로젝트 및 현황·지표 관리 - PMD1 - 전형재 
+            A-3-2	중량 데이터 및 중량 목적 모델 연계 관리 - 
             A-2-2	고객 → 엔지니어링 요구사항 변환  및 관리
             A-2-3	엔지니어링 요구사항 → 성능 목표 설정
             A-2-4	제품안 → VDL, MDL 데이터 자동입력
