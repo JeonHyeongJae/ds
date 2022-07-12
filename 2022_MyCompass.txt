@@ -1,0 +1,429 @@
+2022-07-12 11:17:57
+
+경동나비엔	Value Definition 컨설팅 추가 수행					1/3~1/10 (1/10)
+LIG 넥스원  PoC 수행								1/11~1/27 (1/26~27)
+두산 로보틱스 ENOVIA 솔루션 소개		 2/9~2/15 (2/15)
+경동나비엔 RFT 관련 논의							2/17
+명신 플랫폼 Search 이슈 대응				2/23~24
+티맥스 제우스 플랫폼 연결 테스트 지원	2/25~진행중
+ Partner Certi 감독 지원 						3/10
+경동나비엔 제안 및 PoC 수행					3/11~4/8
+
+CREO 매개변수와 플랫폼 Custom Field Mapping Guide  4/7
+플랫폼 연계 Guide for CREO		4/19
+
+한화 솔루션 케미칼 과제선정플랫폼(3DSWYM) 설명회		4/28~5/10 (5/4)
+한화 솔루션 큐셀 제안 지원				5/6~5/30
+Partner Enablement : 플랫폼 설치교육 준비 및 수행  5/3 ~ 27 (5/25~27)
+LG전자 MBSE Value Engagement 플랫폼 설치 5/10 ~ 5/17
+HKMC MBSE Platform 제안 및 PoC 수행 
+
+
+Business Title : KOREA Industry Process Consultant
+RolesBusiness Role: Industry Process Consultant
+Manager : SangWon LEE (S7E)
+
+
+Mission (visible in People 360)
+Reveal and demonstrate to customers how to maximize the value of the Industry Process portfolio by applying the Value Engagement framework. Through IFWE Loop, Drive customers to address their business transformation by re-engineering their processes, leveraging 3DEXPERIENCE platform Industry Processes. 
+
+Responsibilities
+Leading Solution consulting & Pre-sales activity of ENOVIA & 3DEXPERIENCE Platform for KOREA GEO through collaboration with internal/external eco-systems
+
+Responsibilities (Displayed in People 360)
+Leading Solution consulting & Pre-sales activity of ENOVIA & 3DEXPERIENCE Platform for KOREA GEO through collaboration with internal/external eco-systems
+
+##########################################################################################################################################
+1. My Achievements 
+##########################################################################################################################################
+
+1. Tech Sales Performance - 40/100
+. BMT/PoC/RFP involvement
+. Deliver Seminar/Training
+. Marketing Support and other sales/marketing activites
+
+* KPI : More than 4 BMT/PoC/RFP, 4 Seminar/Traning
+
+**BMT/PoC/RFP
+1. 경동나비엔	Value Definition 컨설팅 추가 수행		1/3~1/10 (1/10)
+2. 경동나비엔 제안 및 PoC 수행										3/11~4/8
+3. LIG 넥스원  PoC 수행														1/11~1/27 (1/26~27)
+4. HKMC MBSE Platform 제안 및 PoC 수행 						5/30 ~ 진행중
+
+**Seminar/Traning
+두산 로보틱스 ENOVIA 솔루션 소개		 2/9~2/15 (2/15)
+한화 솔루션 케미칼 과제선정플랫폼(3DSWYM) 설명회		4/28~5/10 (5/4)
+Partner Enablement : 플랫폼 설치교육 준비 및 수행  5/3 ~ 27 (5/25~27)
+
+####################################################################################
+**BMT/PoC/RFP
+1. Kyungdong Navien Value Definition Announcement	 : 1/3 ~ 1/10 (1/10)
+2. LIG NexOne PoC preparation and execution  : 1/11 ~ 1/27 (1/26~27)
+3. Kyungdong Navien Proposal preparation and POC execution : 3/11 ~ 4/8 (3/28~29)
+4. HKMC MBSE Platform Proposal preparation and POC execution : 5/30 ~ in progress
+
+**Seminar/Traning
+1.DOOSan Robotics introduction of ENOVIA : 2/9 ~ 2/15 (2/15)
+2.Hanwha Chemical Task Selection Platform(3DSwym) Semina : 4/28 ~ 5/10 (5/4)
+3.Partner Enablement : Preparation and lecture for platform installation training : 5/3 ~ 5/27 (5/25~27)
+####################################################################################
+
+2. Team Skill Up and Knowledge Capitalization - 20/100
+Deliver team enablement session
+Posting / Wiki for knowledge share per quarter
+
+* KPI : More than 1 team enablement session per year / More than 2 posts per quarter
+
+####################################################################################
+**Internal 3DSwym 2 posting
+1.CREO 매개변수와 플랫폼 Custom Field Mapping Guide : 4/7
+2.플랫폼 연계 Guide for CREO : 4/19
+
+####################################################################################
+
+
+3. Platform Based Operation - 10/100
+Timely Update of MCF and IC TEAMS 
+
+* KPI : Check monthly update status (Not more than 3 times alert)
+####################################################################################
+Updated without delay
+####################################################################################
+
+4. Collaboration through open communication - 10/100
+Good Social Feedback from collegues (4 to 6 persons)
+
+* KPI : Get an average of 3 points or more
+
+
+5. Individual Special Objective 
+Try to increase 3DEXPERIENCE platform utilization in conjunction with specific solutions (XX Intelligence, Biovia PP...) and platforms from other brands (Netvibes, Biovia..)
+
+* KPI: More than 2 customer engagements cases in 2022
+
+
+
+##########################################################################################################################################
+2. My Leadership 
+##########################################################################################################################################
+
+1. Solving Problems Differently - 40/100
+Find solutions to various problems that occur while performing PoC/BMT or Post-project support and share them with team members/partners
+
+* KPI : More than one case per quarter
+
+명신 플랫폼 Search 이슈 대응				2/23~24
+티맥스 제우스 플랫폼 연결 테스트 지원	2/25~진행중
+LG전자 MBSE Value Engagement 플랫폼 설치 5/10 ~ 5/17
+한화 솔루션 큐셀 제안 지원				5/6~5/30, 7/6
+
+####################################################################################
+1. Post support : Response to Myungshin Platform Search Issues : 2/23 ~ 2/24
+2. Tmax Zeus 3DEXPERIENCE platform connection test support : 2/25 ~ in processing
+3. LG Electronics MBSE Value Engagement 3DEXPERIENCE platform installation : 5/10 ~ 5/17
+4. Hanwha Solutions Q CELLS proposal support : 5/6~5/30, 7/6
+####################################################################################
+
+
+2. Developing my/others' Knowledge - 30/100
+Develop skills to deliver and demonstrate 3DS Industry Soluiton value
+
+* KPI : minimum 1 certificate per quarter (apply from Q2)
+####################################################################################
+Code of Business Conduct, CyberSecurity Fundamentals  (5/30) 
+
+####################################################################################
+
+3. Being a Community enabler - 30/100
+To develop knowledge of our partners like
+how to connect PowerBy lastest XCAD tool , Data Intelligence and etc.
+
+* KPI : minimum 1 partner enablement session,  More than one quarterly posting to partner Swym community
+####################################################################################
+** Partner Enablement
+1.Support for certification test supervision for partners :	3/10
+2.Preparation and lecture for platform installation training : 5/3 ~ 5/27 (5/25~27)
+** Partner Swym 2 posting
+1.XCADConnector(PowerBy)_플랫폼 연계 Guide for CatiaV5 : 4/22
+2.XCADConnector(PowerBy)_플랫폼연계 Guide for CREO : 4/22
+
+
+####################################################################################
+
+
+
+####################################################################################
+####################################################################################
+####################################################################################
+2021
+넥센타이어	NVPD PoC									1/2~1/31
+Samsong	요구사항관리 소개 발표								2/1~2/3
+HKMC	NGE TFT Trainning 자료제작 (제품사양, 변경관리)		2/19~3/8
+KAI	BIOVIA Pipeline Pilot PoC 						3/9 ~ 3/19
+HKMC	NGE BMT Project ( 4.Data Connectivity) 수행	4/2~5/28
+사내교육	드림인턴 5기 플랫폼 아키텍쳐 교육						5/3~5/4
+SK 실트론	PMS Fit&Gap 분석								6/1~7/2
+HKMC	UAM 요구사항관리 소개 							8/5~8/13
+KAI	Onepart PoC										8/17~9/17
+사내교육	신입사원 OJT Enovia 브랜드						10/5~10/8
+경동나비엔	Value Engagement 수행방안 제안 및 발표				9/30~10/13
+쿠쿠전자	Creo 설치 및 플랫폼연계 기술지원						10/25~10/26
+경동나비엔	플랫폼_ECAD_SW연계 방안 소개						10/21~11/12
+경동나비엔	Value Definition 컨설팅 수행					11/22~12/21
+
+
+Mission (visible in People 360)* Reveal and demonstrate to customers how to maximize the value of the Industry Process portfolio applying Value Engagement framework. 
+* Drives customers to address their business transformation by re-engineering their processes, leveraging 3DEXPERIENCE Platform Industry Processes through Initiative 
+* Solution Scope : ENOVIA and related Initiative and IPE
+
+
+Responsibilities* Contributes to the execution of the Value Engagement activities and deliverables, according to the different phases, at our customers and partners
+* Maintain best in class level of expertize & capitalizes on-field activities
+* Focus area
+ - 3DEXPERIENCE platform and its infrastructure
+ - ENOVIA Configured Product Development, Program & Project Management Domain
+ - IPE which are based on ENOVIA solution
+ 
+
+
+##########################################################################################################################################
+1. My Achievements 40/100
+##########################################################################################################################################
+		
+1.1 Initiative Driven Technical Engagement (Pre-Sales): PoC, BMT, Proposal	
+
+	Detail and KPI
+	1)Target Initiative Pre-Sales	
+		2 of Initiative driven RFP, RFI
+		5 of WiKi posting and update of Initiatives or IPEs
+	2)Value engagement	
+		1 of support activities for Value engagement
+	3)Geneneral POC, BMT, Pre-Sales	
+		5 of PoCs, BMT
+
+	--- 실적 ---
+
+1)Target Initiative Pre-Sales
+ 1. RFP, RFI : Kyungdong Navien Value Engagement Implementation Plan Proposal and Presentation (9/30 ~ 10/13)
+
+ 1. Wiki posting : GEO Initiative IPEs - Agile Structured Specification , 05-Structured Specification Management (4/8 ~ 4/9)
+ 2~4 . 4 IPEs related to Kyungdong Navien VD reference posts.
+
+2)Value engagement	
+ 1. PoC : Nexen NVPD PoC - Server setting & configuration , Responsible for the Technical section (Data Configuration, Managing of Developers) (1/1 ~ 1/31) 
+
+
+3)Geneneral POC, BMT, Pre-Sales
+ 1. POC : KAI BIOVIA Pipeline Pilot PoC - Server configuration , Responsible for the Technical section (DB, mql connection) (3/9 ~ 3/19)
+ 2. BMT : HKMC NGE BMT Project - Training specifications, EO (CR, CO, CA) for NGETFT personnel , Data Connectivity sector domain leader of 4 BMT sub-divisions (4/05 ~ 5/28)
+ 3. Pre-Sales : SK siltron Value Commitment Fit&Gap Analysis (6/1 ~ 7/2) 
+ 4. POC : KAI Onepart PoC - Development for solution installation and setup and OnePart Data integrated collection/processing (8/17 ~ 9/17)
+ 5. Pre-Sales : Kyungdong Navien Value Definition Consulting was conducted (10/21 ~ 12/21) 
+				Introduction of 3DEXPERIENCE Platform and ECAD and SW linkage plan for Kyungdong Navien (10/21 ~ 11/12)
+
+
+
+
+##########################################################################################################################################
+1.2 Ecosystem Empower: Enablement (for DS, Partners, Customers) 30/100		
+
+	Detail and KPI
+	1)DS Internal	
+		5 of Initiative tech seminars, wiki postings and Sales Kits 
+	2)Partner Tech Sales	
+		4 of Initiative tech seminars, wiki postings and Sales Kits 
+	3)Customers	
+		4 of seminars, trainings and workshops
+
+
+1)DS Internal	
+ 1. Investigation of ISO26262, CMMI, A-SPICE in 3DEXPERIENCE (2/8 ~ 2/9)
+ 2. 5th Dream Intern Training - 3DEXPERIENCE platform Architecture (5/3 ~ 5/4)
+ 3. Share Fit & Gap Analysis Guide in DS Internal Swym ( IC KOREA Community) (7/6) 
+ 4. Sharing the 3EXPERIENCE Development Environment Setting Guide in DS Internal Swym (IC KOREA Community)(7/14)
+ 5. Shareing How to change the limited number of characters in the Platform search to 2 characters in DS Internal Swym (IC KOREA Community)(9/8)
+
+2)Partner Tech Sales	
+ 1.Technical support for AST-G customers at the request of partner "THE ONE"(3/11)
+ 2.Technical support for Cuckoo Electronics customers at the request of partner "THE ONE" - Creo installation and Platform Link (10/25~10/26)
+
+3)Customers
+ 1.Introducing 3DEXPERINECE Platform Customer Requirements Management to Samsong (2/3)
+ 2.HKMC NGE TFT Training Preparation Support - Responsible for EO Release Mgmt(CR, CO,CA), Varients & Options (2/19 ~ 3/8)
+ 3.Announcement of HKMC NGE BMT data connection sessions for HKMC TFT personnel( 5/24 )
+ 4.Conduct PMS User Scenario Training (Change Management, Daily Request) for SK Siltron's current business (7/1)
+ 5.Announcement of Value Definition Consulting Proposal for Kyungdong Navien (10/13)
+	1) Introduction of 3DEXPERIENCE Platform and ECAD and SW linkage plan for Kyungdong Navien (11/12)
+	2) Global Standard Process Introduction Workshop Presentation for Kyungdong Navien (12/3)
+	3) BOM, PMS workshop 4 times for Kyungdong Navien (12/9, 12/10, 12/13)
+	4) Value Definition Consulting Completion Report Presentation for Kyungdong Navien (12/21)
+
+##########################################################################################################################################
+1.3 Skill Enablement
+
+	Detail and KPI
+	1)Skill Capitalization	
+		4 of capitalized assets published, Swym Tech Posting/Comments 
+	 (DS Inteneral Swym.. CSE Cloud... )
+	2)Skill-Up	
+		3 of Certification (3D University : Configuration , Program & Project, NETVIBES - Brand Essentials ...)
+
+
+1)Skill Capitalization	
+4 posts posted on DS Internal Swym ( IC KOREA Community) 
+   1. 7/6 - Share Fit & Gap Analysis Guide 
+   2. 7/13 - PoC ENOVIA Development environment guide
+   3. 9/8 - How to change the limited number of characters in the Platform search to 2 characters
+   4. 9/23 - OnePart Installation
+   
+2)Skill-Up	
+1. Pass ENOVIA Brand Essentials Certification Test (7/7)
+2. Pass BIOVIA Brand Essentials Certification Test (7/13)
+3. Pass Transportation & Mobility - Industry Fundamentals Certification Test (9/30)
+
+
+
+
+##########################################################################################################################################
+2. My Leadership
+##########################################################################################################################################
+	
+1.1 Revealing my/others' Talents  40/100
+
+	KPI: More than two documents or trainings to deliver new technical content (What's New 2021x FDxx ..)
+
+Delivery of 5 requests or training materials (Reqtify, Platform Training.. ENOVIA Training .. )
+In-house training Dream intern 5th platform architecture training (5/3~5/4)
+In-house training New employee OJT Enovia brand (10/5~10/8)
+		
+		
+1.2 Developing my/others' Knowledge  30/100
+	
+	KPI : Training and preparation for two or more Pipeline Pilots
+	One or more NETVIBES solution-related business operations
+
+Participate in Biovia PP internal training (4 sessions, 2/15~4/30) 
+Participate in NETVIBES(OnePart) internal training (7/20~7/21) 
+In-house training Dream intern 5th platform architecture training (5/3~5/4)
+
+1.2 Being a Community enabler  30/100
+	
+	KPI : Post more than 3 contents and host developer meetings at least once
+
+1. IC KOREA Community post - Share Fit & Gap Analysis Guide (7/6)
+2. IC KOREA Community post - PoC ENOVIA Development environment guide (7/13)
+3. IC KOREA Community post - How to change the limited number of characters in the Platform search to 2 characters (9/8)
+4. IC KOREA Community post - OnePart Installation (9/23)
+5. Partner Certification Test Director 2 times. (2/25, 10/28)
+	
+	
+##########################################################################################################################################
+3. Year Feedback & Comments	
+##########################################################################################################################################
+	
+
+	
+	연간 피드백 및 코멘트 (Year Feedback & Comments) 탭으로 이동하여 한 해동안 잘 진행된 부분과 개선이 필요한 부분을 각각 하이라이트하여 코멘트 입력 후 저장
+
+지난 2020년 1월말에 입사하여 2년차에 접어 들어 이제 어느정도 Industry Process Consultant 라는 직군이 어떤일을 하고 있는지 겪어 본것 같습니다. 
+
+넥센 , SK 실트론 (fit gap분석), 경동나비엔 (Value Definition)  에서의 Value Enagagement  방법론 으로 오직 다쏘만이 가지고 있는 컨설팅 수행을 통해 글로벌의 체계적인 플랫폼 형태의 제안은 저에게 너무나 소중한 경험이 되었습니다. 
+
+HKMC(NGE BMT), KAI (BIOVIA PP PoC, Onepart PoC) 에서는 국내의 큰회사들이 기술적으로 요구하는 사항을 저희 솔루션을 통해 보여줄 수 있는지에 대한 경험이 되었구요.
+
+그리고 저의 드림인턴/신입사원OJT 등의 사내 교육, EONVIA 의 모듈인 요구사항관리(HKMC UAM, Samsong) 소개, 제품사양, 변경관리 모듈의 HKMC 교육 자료제작 등의 다양한 업무를 수행하였습니다. 
+
+2021년도에는 VE컨설팅 제안 및 BMT 시연등 고객 앞에 설 기회가 많았으나 아직 자연스럽게 설명해 주는 스킬이 아직은 많이 부족한 것 같습니다.
+
+내년에는 다쏘에 들어오기 전에 EONVIA 를 오랬동안 다루어 보았고 이에 관련해서 앞으로 좀더 깊숙한 기술적인 업무를 다루고 싶습니다. 
+ 
+앞으로도 저는 시스템 아키텍쳐 및 플랫폼에 대한 심도깊은 이해를 위해 해당 직군에 필요한 정보 혹은 맡은 업무에 따라 최선을 다 하겠습니다.	
+
+
+	
+	
+ I joined the company at the end of January 2020 and entered my second year, and now I think I've experienced what kind of job the Industry Process Consultant is doing. 
+ The proposal in the form of a global systematic platform has become a valuable experience for me through consulting only Dassault has with the Value Engagement methodology of Nexen, SK Siltron, and Kyungdong Navien.
+ At HKMC (NGE BMT) and KAI (BIOVIA PP PoC, Onepart PoC), it became an experience in whether we could show the technical needs of large domestic companies through our solutions.
+ In addition, I performed various tasks such as in-house training for my Dream Intern/New Employee OJT, introduction of EONVIA's module, Requirement Management (HKMC UAM, Samsong), and production of HKMC training materials for Change Management and Configured Product Development modules.
+ In 2021, there were many opportunities to stand in front of customers, such as VE consulting proposals and BMT demonstrations, but I still lack a lot of skills to explain naturally. 
+ Before entering Dassault, I have been dealing with EONVIA for a long time, and I would like to deal with deeper technical work in the future. 
+ In the future, I will continue to do my best according to the information or duties required for the position for an in-depth understanding of the system architecture and platform.
+
+
+	
+	
+2020 년도... 예제	
+	
+	
+
+1) My Achievements
+	CSE Technical sales: RFI or RFP
+		Answer Request For Information (RFI)  / Request for Proposal (RFP)
+		Deliverable: Response to RFI/RFP
+		KPI : More than 3 times of contribution for RFI/RFP	
+				
+	1. LG Common Level-Up PMS RFP 작성 준비 : 서버 셋팅		(4/24 ~ 4/29)
+	2. DooSan Infrocore GPDM Upgrade RFP preparation ( 10/6 ~ 10/20 )
+	
+	
+	
+
+	CSE Technical sales: PoC or Demos
+		Build story tellings, customize and then deliver demonstrations and/or Proof of Concepts to support and articulate the solution/Brand. 
+		Deliverables: Demo Scenario, Customized Demonstrations & Proof of Concepts
+		KPI: More than 5 times of Demonstrations, Proof of Concepts & Seminars	
+
+1. LG Common Level-Up PMS PoC 2nd ( 2/14 ~ 4/8 ) - Server setting & configuration , Responsible for the requirement(TRM & reqtify) section
+2. HKMC PDA(MBSE) Training (3/26 ~ 6/5) - Responsible for Benchmark, Varients & Options
+3. LG Chem Powerby PoC ( 6/1 ~ 9/15 ) - Server setting & configuration, Preparing for training using CDM
+4. LG PMS Fit/Gap Reptify Training (11/4 ~ 11/20) - Lecture on how to use Reptify in Requirements
+5. Nexen NVPD PoC ( 10/22 ~ on Going  ) - Server setting & configuration , Responsible for the Technical section (Data Configuration, Managing of Developers)
+				
+		--> LG Common Level-Up PMS RFP 작성 서버 설치 및 설정 (4/24 ~ 4/29)
+		
+	
+	CSE Technical sales: Capitalisation
+		Capitalize on demos and Proof of Concept to ensure reusability.
+		Deliverable:Demonstration ID Cards.
+		KPI: More than 6 items of material sharing
+
+1. S. LSI Traceability PoC 준비미팅 - reqtify Demonstration video provided
+2. LG Common Level-Up QMS 3rd PoC preparation - Migrate existing PMS 2nd DB to GA-->FD02 version (4/10 ~ 4/15)
+3. LG Common Level-Up PMS CNS demo preparation support (7/28)
+4. LG Common Level-Up PMS Fit/Gap Reptify Manual (11/4 ~ 11/13)
+		
+		--> LG Common Level-Up QMS 3차 PoC 서버 설치 -기존 PMS2차 DB를 GA-->FD02 버전으로 Migration (4/10 ~ 4/15)
+	
+2) My Leadership	
+	Revealing my/others' Talents
+		1. 개발자 3DExperience 개발환경구축 (Eclipse) 가이드 
+			Developer 3DExperience Development Environment (Eclipse) Guide distributed to CRE Cloud 3DSwym (5/26) 
+		2. ExpenseUtil javascript modify support (7/26)		
+		
+	Developing my/others' Knowledge	
+		1. SwYmer's Certification - Level 1 (2/12)
+		2. Industry Process Consultant Certification - Level 1 (5/13)
+		3. ENOVIA Configured Product Development - ARTICULATE - Level 1 (5/21)
+		4. Learning to Widget_Development_Fundamentals_R2020x (8/3 ~ 8/7)
+
+	Being a Community enabler
+	CSE cloud server 3DSWYM : 
+		Creating 11 contents in Tech Sales Community Private Wiki  	
+
+3) “Year Feedback & Comments” 			
+연간 피드백 및 코멘트 (Year Feedback & Comments) 탭으로 이동하여 한 해동안 잘 진행된 부분과 개선이 필요한 부분을 각각 하이라이트하여 코멘트 입력 후 저장
+
+	2020년 1월말에 입사하여 다쏘인으로 알아야할 사항 및 플랫폼에 대한 이해를 위해 여러 교육을 듣고 저의 직군에 대해 적응을 하는 기간이었던것 같습니다. 
+	CSE Tech 에서 데모를 보여주기 위한 3EXPERIENCE Platform 설치 및 설정은 윈도우 리눅스 서버 모두 최신 버전으로 설치해 보았으며 실제 PoC 에서 구현해 보았습니다. Enovia 를 오랬동안 다루어 보았으나 전반적인 아키텍처를 자세하게 알게 되어 개인적인 지적 욕구를 조금이나마 만족시키게 되었습니다. 
+	다만 무언가를 구축하고 만들고 구성하는 것 외에 고객 앞에서 자연스럽게 설명해 주는 스킬이 아직은 많이 부족한 것 같습니다. 
+	추후에는 해당 업무가 주어졌을 경우 좀 더 많은 준비를 하도록 하겠습니다. 
+	앞으로도 시스템 아키텍쳐 및 플랫폼에 대한 심도깊은 이해를 위해 저희 직군에 필요한 정보 혹은 맡은 업무에 따라 최선을 다 하겠습니다.
+
+
+ I joined the company at the end of January 2020, and I think it was a period when I took various training sessions and adapted to my job group to understand what I need to know as a Dassault and the platform. 
+ The installation and setup of the 3EXPERIENCE Platform to show demonstrations in CSE Tech was all installed in the latest version of Windows Linux servers and implemented in PoC. 
+I've been dealing with Enovia for a long time, but I've been able to understand the overall architecture in detail, satisfying some of our personal intellectual needs. 
+ However, besides building, creating, and organizing something, I think I still lack a lot of skills to explain it naturally in front of many customers. 
+ From next time, I will prepare more if I am given the task.
+ In the future, I will continue to do my best according to the information or tasks required for CSE Tech to have an in-depth understanding of the system architecture and platform.	
