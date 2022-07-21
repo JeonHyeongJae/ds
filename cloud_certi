@@ -1,0 +1,222 @@
+
+Question 1
+|2Correct answers, C,D
+
+CLDC-CLE-013) What are the key values that Customer should expect about 3DS SaaS offers ? (Choose 2 answers)
+
+A.Monitoring dashboard of the physical resources consumed by each server
+B.3DEXPERIENCE deployment on Customer's IaaS
+C.Service Level Agreement of the solution
+D.Always running with latest 3DEXPERIENCE update
+
+
+Question 2  C
+
+CLDC-CLE-005) What does PaaS mean in the context of 3DEXPERIENCE on the Cloud?
+A.Public cloud as a Software
+B.Performance as a Service
+C.Platform as a Service
+D.Platform as a Software
+
+Question 3
+Bookmark
+CLDC-CLE-016) Is the following statement TRUE or FALSE?
+
+Network bandwidth extension and Disaster Recovery are optional for Private Cloud.
+
+FALSE
+
+
+Question 4  --- 틀렸음
+|2Correct answers : B,D
+Bookmark
+CLDC-CLE-012) What are the certifications that 3DEXPERIENCE on the Cloud is compliant with ? (Choose 2 answers)
+A.ITAR
+B.SecNumCloud
+C.GDPR
+D.ISO 
+
+Question 5 : C
+
+CLDC-CLE-009) What is the default strategy proposed to deploy 3DEXPERIENCE Native Apps?
+A.All choices are correct
+B.A push strategy defined by Dassault Systemes Cloud Operation team
+C.A pull strategy and automatic installation by end user
+D.A push strategy with the Customer's IT team downloading the update packages and install them to the end-users' workstation
+
+
+Question 6
+|3Correct answers : A,C,D
+
+CLDC-CLE-010) Which values does Customer get for reduced TCO (Total Cost of Ownership) in the context of 3DEXPERIENCE on the Cloud? (Choose 3 answers)
+A.Disaster Recovery Plan is natively part of the 3DEXPERIENCE on the Cloud
+B.Customer can select their own low cost hosting Provider
+C.The customer does not need to invest for server hardware
+D.The customer does not need to manage the servers upgrades
+
+Question 7 : D
+Bookmark
+CLDC-VLE-004) Which phase of Value Engagement allow the Customer to agree with 3DS Cloud SaaS strategy?
+A.Value Delivery
+B.Value Commitment
+C.Value Definition
+D.Value Assessment
+
+Question 8
+
+CLDC-VLE-002) Is the following statement TRUE or FALSE?
+
+Deploying the 3DEXPERIENCE within Private Cloud must be compliant with Value Engagement framework.
+
+TRUE
+
+Question 9
+
+CLDC-CAS-008) Is the following statement TRUE or FALSE?
+
+The 3DEXPERIENCE Enterprise Integration Framework does provide an iPaaS within the solution.
+
+FALSE
+
+
+Question 10 : B
+
+CLDC-CAS-001) Which statement is TRUE about data management for the users from different companies connecting through Public Cloud?
+A.each one will store their metadata in  a distributed database according to users' location
+B.each one will store their metadata in a common database with logical segregation
+C.each one will store their metadata in a common database with physical segregation
+D.each one will store their metadata in  their own database
+
+
+
+
+Question 11
+Bookmark
+CLDC-CAS-003) Is the following statement TRUE or FALSE?
+
+A customer having chosen Public Cloud with end-users located in different Geographies must request to Dassault Systèmes the activation of DFS (Distributed File Store).
+
+FALSE
+
+
+Question 12 --- 틀렸음
+D
+
+CLDC-CAS-006) Who is responsible for assigning an end-user to one or another DFS (Distributed File Store)?
+
+A.Customer's Functional administrator
+B.Dassault Systemes sales representative
+C.End-user
+D.Dassault Systèmes Support Team
+
+Question 13 --- 틀렸음
+
+CLDC-CAS-012) What is the applicability of Services Level Agreement (SLA) in the context of 3DEXPERIENCE on the Cloud?
+
+A.Applicable to the iPaaS
+B.Applicable to 3DEXPERIENCE Native client, customer's network and servers
+C.Applicable to Servers only
+D.Applicable to network connecting Customer information system and Servers
+
+Question 14
+|3Correct answers  A,C,D
+ 
+CLDC-UNU-012) How is the Customer data retrieval managed once the contract gets terminated? (Choose 3 answers)
+A.The Customer can retrieve some data on their own
+B.The Customer has to request a data retrieval within 30 days after expiration of the online services
+C.The data retrieval procedures are defined in the documentation
+D.The Customer has to request a data retrieval within 15 days after expiration of the online services
+
+
+Question 15
+
+CLDC-UNU-013) Is the following statement TRUE or FALSE?
+
+With Platform Manager role, the customer can add attributes.
+
+Question 16
+|2Correct answers : C,D
+
+CLDC-UNU-005) What do you understand by "Where Accessed" license? (Choose 2 answers)
+A.A license eligible to cross customers' collaboration
+B.A license executed on a local workstation
+C.A license executed on a Cloud server
+D.A license that must be purchased by the tenant owner inviter
+
+Question 17
+|2Correct answers : C,D
+
+CLDC-UNU-010) What are key values for the Customer with Dassault Systeme Private Cloud solution? (Choose 2 answers)
+A.Provide dedicated physical resources
+B.Improve control of users access with Lightweight Directory Access Protocol (LDAP) and Security Assertion Markup Language (SAML) identity provider (IdP)
+C.Allow data model specialization
+D.Comply with defense regulations
+
+Question 18  --- 틀렸음 FALSE
+ 
+CLDC-UNU-018) Is the following statement TRUE or FALSE?
+
+With Public Cloud a Customer can configure the platform using baseline behavior, control centers and Enterprise Knowledge Language (EKL) rules.
+
+
+Question 19  --- 틀렸음 B
+ 
+CLDC-UNU-002) Which action should be performed by the Customer to make 3DEXPERIENCE on the Cloud scalable?
+A.Increase the resources (Memory and CPU)
+B.Request for additional platform servers on 3DS Cloud
+C.Nothing as this is natively scalable
+D.Setup local replication servers
+
+
+Question 20 --- 틀렸음
+|3Correct answers , B,C,D
+Bookmark
+CLDC-UNU-006) What do you understand by "Where Used" license? (Choose 3 answers)
+A.a license that must be purchased at the location of the user
+B.a license eligible to cross customers'' collaboration
+C.a license executed on a local workstation
+D.a license executed on an On Premises DSLS server
+
+
+Question 21 B
+Bookmark
+CLDC-COS-001) What does the Service Level Agreement (SLA) mention in the context of 3DEXPERIENCE on the Cloud?
+A.The performance
+B.The availability 
+C.Number of updates per year
+D.The Performance and Availability
+
+
+Question 22
+|2Correct answers : A,D
+
+CLDC-COS-009) How can a Customer verify client-side prerequisites compatibility with 3DEXPERIENCE on the Cloud? (Choose 2 answers)
+A.Run the Cloud Eligibility tool from their different sites
+B.Run the Managed DSLS Eligibility tool from their different sites
+C.Virtualize workstations with VDI solutions
+D.Check with Dassault Systemes Cloud prerequisites in the Program Directory
+
+Question 23 C
+
+CLDC-COS-005) Which support channel should be used for a Cloud priority case?
+A.Use the 3DSupport App
+B.Use the IFWE Experience community
+C.Call the support phone as there is a 24/7 online support
+D.Use the chat to describe the functional request
+
+
+Question 24 A
+
+CLDC-COS-012) Which of the following statement is TRUE about Disaster Recovery?
+A.3DS provides Disaster Recovery with a Recovery Time Objective (RTO) of 24 hours
+B.Disaster Recovery is by default implemented for Public Cloud but is an option for Private Cloud
+C.3DS provides Disaster Recovery with a Recovery Time Objective (RTO) of 4 hours
+D.3DS provides Disaster Recovery with a Recovery Point Objective (RPO) of 4 hours
+
+Question 25 !
+
+CLDC-COS-011) What is the Dassault Systèmes retention period for a daily backup of 3DEXPERIENCE on the Cloud?
+A.7 days
+B.1 month
+C.1 year
+D.3 months
